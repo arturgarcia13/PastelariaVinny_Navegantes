@@ -1,0 +1,16 @@
+# Configuração específica para Streamlit Cloud
+# Este arquivo garante que o dashboard rode sem problemas na nuvem
+
+[server]
+port = 8501
+headless = true
+
+[browser]
+gatherUsageStats = false
+showErrorDetails = false
+
+[theme]
+primaryColor = "#3498db"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#2c3e50"

@@ -48,8 +48,8 @@ st.markdown("""
 def carregar_dados():
     """Carrega e processa os dados de vendas"""
     try:
-        # Caminhos dos arquivos
-        base_path = os.path.dirname(os.path.abspath(__file__))
+        # Caminhos dos arquivos - subindo para a raiz do projeto
+        base_path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
         pix_path = os.path.join(base_path, 'outputs', 'reports', 'transacoes_pix.csv')
         credito_path = os.path.join(base_path, 'outputs', 'reports', 'transacoes_credito.csv')
         debito_path = os.path.join(base_path, 'outputs', 'reports', 'transacoes_debito.csv')

@@ -1,3 +1,9 @@
-# Dependências para o processador de imagens da Pastelaria Vinny
-Pillow==10.0.1
-pytesseract==0.3.10
+# Dependências do Dashboard Streamlit
+streamlit>=1.25.0
+plotly>=5.15.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Dependências para processamento de imagens (opcional - apenas se necessário)
+# Pillow>=10.4.0
+# pytesseract>=0.3.10
