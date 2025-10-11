@@ -1,0 +1,225 @@
+{
+  "day_folder": "pix (17)",
+  "date_info": "05 set. 2025",
+  "header_text": "05 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "; R$ 20,00\n\ng, Pix Processando taxa\nY . >\n\n20:31 Rosevaldo:Freire:Dantas. —_)\n\nAprovada |",
+      "processed_text": "R$ 20,00 g, Pix Processando taxa Y . 20:31 Rosevaldo:Freire:Dantas. _) Aprovada",
+      "confidence": 69.93333333333334,
+      "timestamp": null,
+      "amount": "R$ 20,00",
+      "description": "R$ 20,00 g, Pix Processando taxa Y . 20:31 Rosevaldo:Freire:Dantas. _) Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix R$ 7,00\nQ} 20:17 + JOAO'VICTOR AIRES DE Procesando taxa >\nOLIVEIRA MATIAS [ Aprovada |",
+      "processed_text": "Pix R$ 7,00 Q 20:17 + JOAO VICTOR AIRES DE Procesando taxa OLIVEIRA MATIAS Aprovada",
+      "confidence": 70.125,
+      "timestamp": null,
+      "amount": "R$ 7,00",
+      "description": "Pix R$ 7,00 Q 20:17 + JOAO VICTOR AIRES DE Procesando taxa OLIVEIRA MATIAS Aprovada"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Pix R$ 11,50\n& 20:14 JOAO VICTOR AIRES DE Processando taxa >\nOLIVEIRA MATIAS [ Aprovada |",
+      "processed_text": "Pix R$ 11,50 20:14 JOAO VICTOR AIRES DE Processando taxa OLIVEIRA MATIAS Aprovada",
+      "confidence": 70.05882352941177,
+      "timestamp": null,
+      "amount": "R$ 11,50",
+      "description": "Pix R$ 11,50 20:14 JOAO VICTOR AIRES DE Processando taxa OLIVEIRA MATIAS Aprovada"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "Pi R$ 4,50\n& 20:07 « SABRINA ALVES DE Processando'taxa: >",
+      "processed_text": "Pi R$ 4,50 20:07 SABRINA ALVES DE Processando taxa:",
+      "confidence": 68.54545454545455,
+      "timestamp": null,
+      "amount": "R$ 4,50",
+      "description": "Pi R$ 4,50 20:07 SABRINA ALVES DE Processando taxa:"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "Pix R$ 4,50\n& 20:05 * REGINA C SANTOS Processando taxa >\nRODRIGUES",
+      "processed_text": "Pix R$ 4,50 20:05 REGINA C SANTOS Processando taxa RODRIGUES",
+      "confidence": 80.61538461538461,
+      "timestamp": null,
+      "amount": "R$ 4,50",
+      "description": "Pix R$ 4,50 20:05 REGINA C SANTOS Processando taxa RODRIGUES"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "Pix R$ 32,00\n& 10:44» REGINAC SANTOS Processando taxa >\nRODRIGUES",
+      "processed_text": "Pix R$ 32,00 10:44 REGINAC SANTOS Processando taxa RODRIGUES",
+      "confidence": 79.36363636363636,
+      "timestamp": null,
+      "amount": "R$ 32,00",
+      "description": "Pix R$ 32,00 10:44 REGINAC SANTOS Processando taxa RODRIGUES"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "Pix R$ 11,00\n& 19:13 « AMANDA HELLEN Processando taxa >",
+      "processed_text": "Pix R$ 11,00 19:13 AMANDA HELLEN Processando taxa",
+      "confidence": 73.81818181818181,
+      "timestamp": null,
+      "amount": "R$ 11,00",
+      "description": "Pix R$ 11,00 19:13 AMANDA HELLEN Processando taxa"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "; R$ 30,50\n& Pix Processando taxa »\n18:30 « JOSE HOLANDA NETO\nAprovada |",
+      "processed_text": "R$ 30,50 Pix Processando taxa 18:30 JOSE HOLANDA NETO Aprovada",
+      "confidence": 80.53333333333333,
+      "timestamp": null,
+      "amount": "R$ 30,50",
+      "description": "R$ 30,50 Pix Processando taxa 18:30 JOSE HOLANDA NETO Aprovada"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Dix R$ 16,00\n& 18:48 * JULIA ROLA Processando taxa »\nFONTENELE MORAES [ Aprovada |",
+      "processed_text": "Dix R$ 16,00 18:48 JULIA ROLA Processando taxa FONTENELE MORAES Aprovada",
+      "confidence": 81.6875,
+      "timestamp": null,
+      "amount": "R$ 16,00",
+      "description": "Dix R$ 16,00 18:48 JULIA ROLA Processando taxa FONTENELE MORAES Aprovada"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "; R$ 23,50\n& Pix Processando taxa 5\n18:47 @ ISRAEL CARLOS MOTA\nAprovada |",
+      "processed_text": "R$ 23,50 Pix Processando taxa 5 18:47 ISRAEL CARLOS MOTA Aprovada",
+      "confidence": 79.86666666666666,
+      "timestamp": null,
+      "amount": "R$ 23,50",
+      "description": "R$ 23,50 Pix Processando taxa 5 18:47 ISRAEL CARLOS MOTA Aprovada"
+    },
+    {
+      "quadrant_number": 12,
+      "raw_text": "R$ 14,00\n\ng, Pix Procéssando taxa\nY os . . >\n\n18:39 « Valdimir Ferreira Maciel |\n\nAprovada |",
+      "processed_text": "R$ 14,00 g, Pix Procéssando taxa Y os . . 18:39 Valdimir Ferreira Maciel Aprovada",
+      "confidence": 71.0,
+      "timestamp": null,
+      "amount": "R$ 14,00",
+      "description": "R$ 14,00 g, Pix Procéssando taxa Y os . . 18:39 Valdimir Ferreira Maciel Aprovada"
+    },
+    {
+      "quadrant_number": 13,
+      "raw_text": "; R$ 18,00\n& Pix Processando taxa >\nKe . .\n18:14 * Luziane da Silva Chagas\nAprovada |",
+      "processed_text": "R$ 18,00 Pix Processando taxa Ke . . 18:14 Luziane da Silva Chagas Aprovada",
+      "confidence": 73.10526315789474,
+      "timestamp": null,
+      "amount": "R$ 18,00",
+      "description": "R$ 18,00 Pix Processando taxa Ke . . 18:14 Luziane da Silva Chagas Aprovada"
+    },
+    {
+      "quadrant_number": 14,
+      "raw_text": "& 18:03+ CARLOSCESARLIRA —-Processando taxa »",
+      "processed_text": "18:03+ CARLOSCESARLIRA -Processando taxa",
+      "confidence": 56.0,
+      "timestamp": null,
+      "amount": null,
+      "description": "18:03+ CARLOSCESARLIRA -Processando taxa"
+    },
+    {
+      "quadrant_number": 15,
+      "raw_text": "Pix R$ 21,00\n18:00» ERIC MARROCOS Processando taxa >\nAPPOLINARIO [ Aprovada |",
+      "processed_text": "Pix R$ 21,00 18:00 ERIC MARROCOS Processando taxa APPOLINARIO Aprovada",
+      "confidence": 80.38461538461539,
+      "timestamp": null,
+      "amount": "R$ 21,00",
+      "description": "Pix R$ 21,00 18:00 ERIC MARROCOS Processando taxa APPOLINARIO Aprovada"
+    },
+    {
+      "quadrant_number": 16,
+      "raw_text": "R$ 13,50\n\ng, Pix Processando taxa\nYP 2 >\n\n17:40 ¢ MARINA LEITE DINIZ —)\n\nAprovada |",
+      "processed_text": "R$ 13,50 g, Pix Processando taxa YP 2 17:40 MARINA LEITE DINIZ ) Aprovada",
+      "confidence": 75.9375,
+      "timestamp": null,
+      "amount": "R$ 13,50",
+      "description": "R$ 13,50 g, Pix Processando taxa YP 2 17:40 MARINA LEITE DINIZ ) Aprovada"
+    },
+    {
+      "quadrant_number": 17,
+      "raw_text": "Dix R$ 10,49\n& 17:25 * Maria Beatriz Oliveira Processando'taxa: >\ndos santos [ Aprovada |",
+      "processed_text": "Dix R$ 10,49 17:25 Maria Beatriz Oliveira Processando taxa: dos santos Aprovada",
+      "confidence": 82.0,
+      "timestamp": null,
+      "amount": "R$ 10,49",
+      "description": "Dix R$ 10,49 17:25 Maria Beatriz Oliveira Processando taxa: dos santos Aprovada"
+    },
+    {
+      "quadrant_number": 18,
+      "raw_text": "Pix R$ 32,00\n& 1716+ IRANEIDE NASCIMENTO Processando taxa >",
+      "processed_text": "Pix R$ 32,00 1716+ IRANEIDE NASCIMENTO Processando taxa",
+      "confidence": 72.5,
+      "timestamp": null,
+      "amount": "R$ 32,00",
+      "description": "Pix R$ 32,00 1716+ IRANEIDE NASCIMENTO Processando taxa"
+    },
+    {
+      "quadrant_number": 19,
+      "raw_text": "; R$ 12,00\n\n& Pix Processando taxa »\n16:48 « WILLKEN P A SANTOS\nAprovada |",
+      "processed_text": "R$ 12,00 Pix Processando taxa 16:48 WILLKEN P A SANTOS Aprovada",
+      "confidence": 81.4375,
+      "timestamp": null,
+      "amount": "R$ 12,00",
+      "description": "R$ 12,00 Pix Processando taxa 16:48 WILLKEN P A SANTOS Aprovada"
+    },
+    {
+      "quadrant_number": 20,
+      "raw_text": "Dix R$ 14,31\n16:33 Felicio de Kapu Gomes — Processando taxa >",
+      "processed_text": "Dix R$ 14,31 16:33 Felicio de Kapu Gomes Processando taxa",
+      "confidence": 67.75,
+      "timestamp": null,
+      "amount": "R$ 14,31",
+      "description": "Dix R$ 14,31 16:33 Felicio de Kapu Gomes Processando taxa"
+    },
+    {
+      "quadrant_number": 21,
+      "raw_text": "Pix R$.25,50\n& 1618+ FRANCISCO ANTONIO ——-Processandotaxa >\nFRANCO FILHO Aprovada",
+      "processed_text": "Pix R$.25,50 1618+ FRANCISCO ANTONIO -Processandotaxa FRANCO FILHO Aprovada",
+      "confidence": 64.81818181818181,
+      "timestamp": null,
+      "amount": "R$.25,50",
+      "description": "Pix R$.25,50 1618+ FRANCISCO ANTONIO -Processandotaxa FRANCO FILHO Aprovada"
+    },
+    {
+      "quadrant_number": 22,
+      "raw_text": "; R$ 13,50\n& Pix Processando taxa >\n16:15 ¢ DIEGO NONATO CG SILVA ;\nAprovada",
+      "processed_text": "R$ 13,50 Pix Processando taxa 16:15 DIEGO NONATO CG SILVA Aprovada",
+      "confidence": 73.5625,
+      "timestamp": null,
+      "amount": "R$ 13,50",
+      "description": "R$ 13,50 Pix Processando taxa 16:15 DIEGO NONATO CG SILVA Aprovada"
+    },
+    {
+      "quadrant_number": 23,
+      "raw_text": "Pix R$ 15,57\n& 16:12 « Fabio Alercio Costa Processando taxa >\nRodrigues Aprovada",
+      "processed_text": "Pix R$ 15,57 16:12 Fabio Alercio Costa Processando taxa Rodrigues Aprovada",
+      "confidence": 82.28571428571429,
+      "timestamp": null,
+      "amount": "R$ 15,57",
+      "description": "Pix R$ 15,57 16:12 Fabio Alercio Costa Processando taxa Rodrigues Aprovada"
+    },
+    {
+      "quadrant_number": 24,
+      "raw_text": "Pix R$ 12,00\n& 15:43 » Bianca Cibely Freitas Processando taxa >\nOliveira Aprovada",
+      "processed_text": "Pix R$ 12,00 15:43 Bianca Cibely Freitas Processando taxa Oliveira Aprovada",
+      "confidence": 76.35714285714286,
+      "timestamp": null,
+      "amount": "R$ 12,00",
+      "description": "Pix R$ 12,00 15:43 Bianca Cibely Freitas Processando taxa Oliveira Aprovada"
+    },
+    {
+      "quadrant_number": 25,
+      "raw_text": "Pix R$ 5,45\n& 15:30 » KATIA SUELLY Processando taxa >\nFERREIRA AMORIM Aprovada",
+      "processed_text": "Pix R$ 5,45 15:30 KATIA SUELLY Processando taxa FERREIRA AMORIM Aprovada",
+      "confidence": 69.14285714285714,
+      "timestamp": null,
+      "amount": "R$ 5,45",
+      "description": "Pix R$ 5,45 15:30 KATIA SUELLY Processando taxa FERREIRA AMORIM Aprovada"
+    }
+  ],
+  "total_quadrants": 25,
+  "processing_timestamp": "2025-10-10T11:13:46.027790"
+}

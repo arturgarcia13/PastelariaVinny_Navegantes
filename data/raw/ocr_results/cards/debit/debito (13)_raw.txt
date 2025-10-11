@@ -1,0 +1,70 @@
+=== debito (13).jpg ===
+Tipo: Debito
+Dimensões: 1044x1600
+Tamanho: 69.49 KB
+Processado em: 10/10/2025 16:20:26
+Melhor confiança: 83.3%
+Caracteres extraídos: 330
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+24 set. 2025
+R$ 18,00
+E) Débito -R$0,48 5
+20:37 e Maquininha
+Aprovada
+R$ 14,00
+20:07 e Maquininha
+Aprovada
+R$ 18,00
+fe Débito -R$0,48 +
+18:30 e Maquininha ,
+Aprovada
+R$ 12,50
+= Débito - R$0,18
+17:30 e Maquininha
+Aprovada
+R$ 8,50
+e Débito - R$0,12 +
+17:30 e Maquininha
+Aprovada
+R$ 9,00
+e Débito -R$013 5
+17:05 e Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 83.3%
+Caracteres: 330
+Texto:
+24 set. 2025
+R$ 18,00
+E) Débito -R$0,48 5
+20:37 e Maquininha
+Aprovada
+R$ 14,00
+20:07 e Maquininha
+Aprovada
+R$ 18,00
+fe Débito -R$0,48 +
+18:30 e Maquininha ,
+Aprovada
+R$ 12,50
+= Débito - R$0,18
+17:30 e Maquininha
+Aprovada
+R$ 8,50
+e Débito - R$0,12 +
+17:30 e Maquininha
+Aprovada
+R$ 9,00
+e Débito -R$013 5
+17:05 e Maquininha
+Aprovada
+

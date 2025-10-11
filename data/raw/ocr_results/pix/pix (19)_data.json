@@ -1,0 +1,144 @@
+{
+  "day_folder": "pix (19)",
+  "date_info": "03 out. 2025",
+  "header_text": "03 out. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "Pix R$ 19,41\n& 19:54 © YULIETH ANDREA Processando taxa >\nTENORIO HURTADO [ Aprovada |",
+      "processed_text": "Pix R$ 19,41 19:54 YULIETH ANDREA Processando taxa TENORIO HURTADO Aprovada",
+      "confidence": 72.0625,
+      "timestamp": null,
+      "amount": "R$ 19,41",
+      "description": "Pix R$ 19,41 19:54 YULIETH ANDREA Processando taxa TENORIO HURTADO Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "; R$ 6,00\n\n& Pix _ Processando taxa 5\n18:18 *-Silas Ferreira de Avila\n(apreveds",
+      "processed_text": "R$ 6,00 Pix _ Processando taxa 5 18:18 -Silas Ferreira de Avila (apreveds",
+      "confidence": 71.14285714285714,
+      "timestamp": null,
+      "amount": "R$ 6,00",
+      "description": "R$ 6,00 Pix _ Processando taxa 5 18:18 -Silas Ferreira de Avila (apreveds"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Pix R$ 8,00\n& 18:14 « Rayane Moraes de Processando taxa >",
+      "processed_text": "Pix R$ 8,00 18:14 Rayane Moraes de Processando taxa",
+      "confidence": 79.16666666666667,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "Pix R$ 8,00 18:14 Rayane Moraes de Processando taxa"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "R$ 25,00\n& Pix Processando taxa\nS 7 >\n18:13 « Artemizia da Costa Alves\nAprovada",
+      "processed_text": "R$ 25,00 Pix Processando taxa S 7 18:13 Artemizia da Costa Alves Aprovada",
+      "confidence": 77.8,
+      "timestamp": null,
+      "amount": "R$ 25,00",
+      "description": "R$ 25,00 Pix Processando taxa S 7 18:13 Artemizia da Costa Alves Aprovada"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "R$ 2,50\n& Pix Processando taxa »\n18:12 ¢ BRENNA CESAR ;",
+      "processed_text": "R$ 2,50 Pix Processando taxa 18:12 BRENNA CESAR",
+      "confidence": 82.18181818181819,
+      "timestamp": null,
+      "amount": "R$ 2,50",
+      "description": "R$ 2,50 Pix Processando taxa 18:12 BRENNA CESAR"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "; R$ 8,00\n& Pix Processando taxa 5\n17:27 « BRENNA CESAR",
+      "processed_text": "R$ 8,00 Pix Processando taxa 5 17:27 BRENNA CESAR",
+      "confidence": 76.5,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "R$ 8,00 Pix Processando taxa 5 17:27 BRENNA CESAR"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "Pix R$ 13,00\n& 17:12 + Gustavo Sousa Alvesde Processandotaxa »",
+      "processed_text": "Pix R$ 13,00 17:12 + Gustavo Sousa Alvesde Processandotaxa",
+      "confidence": 59.36363636363637,
+      "timestamp": null,
+      "amount": "R$ 13,00",
+      "description": "Pix R$ 13,00 17:12 + Gustavo Sousa Alvesde Processandotaxa"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "; R$ 18,00\n& Pix Processando taxa »\nS +. os\n17:09 ® Taynah Santos Benicio\nAprovada |",
+      "processed_text": "R$ 18,00 Pix Processando taxa S +. os 17:09 Taynah Santos Benicio Aprovada",
+      "confidence": 75.9375,
+      "timestamp": null,
+      "amount": "R$ 18,00",
+      "description": "R$ 18,00 Pix Processando taxa S +. os 17:09 Taynah Santos Benicio Aprovada"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Pix R$ 12,00\n& 16:21+ HANDERSON RUIZDE —- Procesando taxa >",
+      "processed_text": "Pix R$ 12,00 16:21+ HANDERSON RUIZDE - Procesando taxa",
+      "confidence": 55.5,
+      "timestamp": null,
+      "amount": "R$ 12,00",
+      "description": "Pix R$ 12,00 16:21+ HANDERSON RUIZDE - Procesando taxa"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "; R$ 10,49\n& Pix Processando taxa 5\n16:16 « NALU ANDRADE MOTA\nAprovada |",
+      "processed_text": "R$ 10,49 Pix Processando taxa 5 16:16 NALU ANDRADE MOTA Aprovada",
+      "confidence": 78.6,
+      "timestamp": null,
+      "amount": "R$ 10,49",
+      "description": "R$ 10,49 Pix Processando taxa 5 16:16 NALU ANDRADE MOTA Aprovada"
+    },
+    {
+      "quadrant_number": 12,
+      "raw_text": "Pix R$ 12,60\n& 16:05 « GILMARA RIPARDO Processando taxa >",
+      "processed_text": "Pix R$ 12,60 16:05 GILMARA RIPARDO Processando taxa",
+      "confidence": 85.27272727272727,
+      "timestamp": null,
+      "amount": "R$ 12,60",
+      "description": "Pix R$ 12,60 16:05 GILMARA RIPARDO Processando taxa"
+    },
+    {
+      "quadrant_number": 13,
+      "raw_text": "Dix R$ 43,14\n& 15:47 e Anténia Luziene Bezerra Procesando taxa: >",
+      "processed_text": "Dix R$ 43,14 15:47 e Anténia Luziene Bezerra Procesando taxa:",
+      "confidence": 73.33333333333333,
+      "timestamp": null,
+      "amount": "R$ 43,14",
+      "description": "Dix R$ 43,14 15:47 e Anténia Luziene Bezerra Procesando taxa:"
+    },
+    {
+      "quadrant_number": 14,
+      "raw_text": "Dix R$ 8,00\n& 15:43 « INGRID KLEINE CL Procesando taxa >",
+      "processed_text": "Dix R$ 8,00 15:43 INGRID KLEINE CL Procesando taxa",
+      "confidence": 75.0,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "Dix R$ 8,00 15:43 INGRID KLEINE CL Procesando taxa"
+    },
+    {
+      "quadrant_number": 15,
+      "raw_text": "Dix R$ 11,04\n& 15:21 KELLY DE CASTRO Processando taxa >",
+      "processed_text": "Dix R$ 11,04 15:21 KELLY DE CASTRO Processando taxa",
+      "confidence": 80.0909090909091,
+      "timestamp": null,
+      "amount": "R$ 11,04",
+      "description": "Dix R$ 11,04 15:21 KELLY DE CASTRO Processando taxa"
+    },
+    {
+      "quadrant_number": 16,
+      "raw_text": "Pix R$ 5,61\n& 15:21 ¢ GEORGIA KARINE L Processando taxa >",
+      "processed_text": "Pix R$ 5,61 15:21 GEORGIA KARINE L Processando taxa",
+      "confidence": 74.33333333333333,
+      "timestamp": null,
+      "amount": "R$ 5,61",
+      "description": "Pix R$ 5,61 15:21 GEORGIA KARINE L Processando taxa"
+    }
+  ],
+  "total_quadrants": 16,
+  "processing_timestamp": "2025-10-10T11:14:17.076389"
+}

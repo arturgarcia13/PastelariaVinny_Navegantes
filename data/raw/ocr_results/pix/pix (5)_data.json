@@ -1,0 +1,99 @@
+{
+  "day_folder": "pix (5)",
+  "date_info": "23 set. 2025",
+  "header_text": "23 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "Pix R$ 31,00\n& 18:41 EMANUEL ROGERIO Processando taxa >\nARAUJO SILVA [ Aprovada |",
+      "processed_text": "Pix R$ 31,00 18:41 EMANUEL ROGERIO Processando taxa ARAUJO SILVA Aprovada",
+      "confidence": 77.93333333333334,
+      "timestamp": null,
+      "amount": "R$ 31,00",
+      "description": "Pix R$ 31,00 18:41 EMANUEL ROGERIO Processando taxa ARAUJO SILVA Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix R$ 8,00\n& 18:22 * Mariana Alencar Processando taxa >\nSalvadori [ Aprovada |",
+      "processed_text": "Pix R$ 8,00 18:22 Mariana Alencar Processando taxa Salvadori Aprovada",
+      "confidence": 83.0,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "Pix R$ 8,00 18:22 Mariana Alencar Processando taxa Salvadori Aprovada"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "R$ 22,00\n& Pix Processando taxa »\nS\n18:19 « ELANY PEREIRA SOUZA |\nAprovada",
+      "processed_text": "R$ 22,00 Pix Processando taxa S 18:19 ELANY PEREIRA SOUZA Aprovada",
+      "confidence": 72.6,
+      "timestamp": null,
+      "amount": "R$ 22,00",
+      "description": "R$ 22,00 Pix Processando taxa S 18:19 ELANY PEREIRA SOUZA Aprovada"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "Dix R$ 20,00\n& 17:46 + JOYCIANE BATISTADO Procesando taxa»\nNASCIMENTO",
+      "processed_text": "Dix R$ 20,00 17:46 + JOYCIANE BATISTADO Procesando taxa NASCIMENTO",
+      "confidence": 77.875,
+      "timestamp": null,
+      "amount": "R$ 20,00",
+      "description": "Dix R$ 20,00 17:46 + JOYCIANE BATISTADO Procesando taxa NASCIMENTO"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "Pix R$ 7,00\n& 17:18 PAULA MIRLEN Processando taxa >\nBARBOSA DA SILVA",
+      "processed_text": "Pix R$ 7,00 17:18 PAULA MIRLEN Processando taxa BARBOSA DA SILVA",
+      "confidence": 84.6923076923077,
+      "timestamp": null,
+      "amount": "R$ 7,00",
+      "description": "Pix R$ 7,00 17:18 PAULA MIRLEN Processando taxa BARBOSA DA SILVA"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "; R$ 26,00\n& Pix a Processando taxa 5\n16:00 » Beatriz Gomes Nobre",
+      "processed_text": "R$ 26,00 Pix a Processando taxa 5 16:00 Beatriz Gomes Nobre",
+      "confidence": 75.92307692307692,
+      "timestamp": null,
+      "amount": "R$ 26,00",
+      "description": "R$ 26,00 Pix a Processando taxa 5 16:00 Beatriz Gomes Nobre"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "Pix R$ 4,00\n& 15:55 « Francisco Italo Processafido taxa >\nRodrigues Gomes [ Aprovada |",
+      "processed_text": "Pix R$ 4,00 15:55 Francisco Italo Processafido taxa Rodrigues Gomes Aprovada",
+      "confidence": 77.625,
+      "timestamp": null,
+      "amount": "R$ 4,00",
+      "description": "Pix R$ 4,00 15:55 Francisco Italo Processafido taxa Rodrigues Gomes Aprovada"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "Pix R$ 4,00\n& 15:54 « VIVIANE OTAVIANA Processando taxa >",
+      "processed_text": "Pix R$ 4,00 15:54 VIVIANE OTAVIANA Processando taxa",
+      "confidence": 74.27272727272727,
+      "timestamp": null,
+      "amount": "R$ 4,00",
+      "description": "Pix R$ 4,00 15:54 VIVIANE OTAVIANA Processando taxa"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Pix R$ 8,00\n& 15:50 FRANCISCO SOARES —-PFOcessando taxa >\nHERCULANO.JUNIOR [ Aprovada |",
+      "processed_text": "Pix R$ 8,00 15:50 FRANCISCO SOARES -PFOcessando taxa HERCULANO.JUNIOR Aprovada",
+      "confidence": 63.5,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "Pix R$ 8,00 15:50 FRANCISCO SOARES -PFOcessando taxa HERCULANO.JUNIOR Aprovada"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "Ph R$ 15,00\nQ 15:42 + Lucio Flavio Santos de Procesando taxa >",
+      "processed_text": "Ph R$ 15,00 Q 15:42 + Lucio Flavio Santos de Procesando taxa",
+      "confidence": 58.27272727272727,
+      "timestamp": null,
+      "amount": "R$ 15,00",
+      "description": "Ph R$ 15,00 Q 15:42 + Lucio Flavio Santos de Procesando taxa"
+    }
+  ],
+  "total_quadrants": 11,
+  "processing_timestamp": "2025-10-10T11:10:12.606106"
+}

@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "pastelaria-vinny-navegantes"
+version = "1.0.0"
+description = "Sistema de processamento de imagens e análise de vendas da Pastelaria Vinny"
+authors = ["arturgarcia13 <arturgarcia046@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8.1"
+pillow = "^10.0.1"
+pytesseract = "^0.3.10"
+pandas = "^2.0.0"
+matplotlib = "^3.7.0"
+openpyxl = "^3.1.0"
+opencv-python = "^4.12.0.88"
+seaborn = "^0.13.2"
+plotly = "^6.3.1"
+dash = "^3.2.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+black = "^23.7.0"
+flake8 = "^6.0.0"
+jupyter = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+processar-imagens = "processar_imagens:main"
+converter-csv = "converter_txt_para_csv:main"
+analisar-vendas = "analisar_vendas:main"

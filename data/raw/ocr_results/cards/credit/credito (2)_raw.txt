@@ -1,0 +1,130 @@
+=== credito (2).jpg ===
+Tipo: Credito
+Dimensões: 413x1600
+Tamanho: 54.3 KB
+Processado em: 10/10/2025 16:19:40
+Melhor confiança: 65.2%
+Caracteres extraídos: 832
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+02 set. 2025 |
+. R$17,57
+e Crédito x -R$0,62 >
+20:51 « Maquininha PES á
+vm R$26,00
+Crédito 1x -R$0,91
+ha 20:20 « Maquininha é
+Aprovada
+R$24,00
+- isa a uininha ldicação
+' q Aprovada
+R$65,50
+Ná arca me a -R$230 >
+:34 » Maquininha a
+R$17,00
+ma era ms -R$0,60 >
+:49 « Maquininha
+e Aprovada
+R$10,67
+usa Crédito 1x -R$037 >
+17:39 + Maquininha
+Aprovada
+R$8,00
+q Crédito 1x -R$038 >
+17:36 + Maquininha A
+R$16,00
+e Crédito — -R$0,56 »
+17:34 e Maquininha
+Aprovada
+R$19,87
+º q Aprovada
+R$13,43
+sa Crédito 1x -R$0,47 >
+17:13 » Maquininha
+Aprovada
+R$23,36
+usa Gra » -R$082 >
++ Maquininha EE
+R$16,74
+usa Crédito 1x -R$0,59 >
+16:54 » Maquininha
+Aprovada
+R$773
+e Era, 1x N -R$0,27 >
+:31 * Maquininha TESTA
+R$13,34
+es Crédito x -R$0,47 >
+15:59 « Maquininha FER .
+R$9,66
+E) Crédito 1x -R$045 3
+15:29 « Maquininha EEE
+= R$26,95
+” into a À
+É a Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 65.2%
+Caracteres: 832
+Texto:
+02 set. 2025 |
+. R$17,57
+e Crédito x -R$0,62 >
+20:51 « Maquininha PES á
+vm R$26,00
+Crédito 1x -R$0,91
+ha 20:20 « Maquininha é
+Aprovada
+R$24,00
+- isa a uininha ldicação
+' q Aprovada
+R$65,50
+Ná arca me a -R$230 >
+:34 » Maquininha a
+R$17,00
+ma era ms -R$0,60 >
+:49 « Maquininha
+e Aprovada
+R$10,67
+usa Crédito 1x -R$037 >
+17:39 + Maquininha
+Aprovada
+R$8,00
+q Crédito 1x -R$038 >
+17:36 + Maquininha A
+R$16,00
+e Crédito — -R$0,56 »
+17:34 e Maquininha
+Aprovada
+R$19,87
+º q Aprovada
+R$13,43
+sa Crédito 1x -R$0,47 >
+17:13 » Maquininha
+Aprovada
+R$23,36
+usa Gra » -R$082 >
++ Maquininha EE
+R$16,74
+usa Crédito 1x -R$0,59 >
+16:54 » Maquininha
+Aprovada
+R$773
+e Era, 1x N -R$0,27 >
+:31 * Maquininha TESTA
+R$13,34
+es Crédito x -R$0,47 >
+15:59 « Maquininha FER .
+R$9,66
+E) Crédito 1x -R$045 3
+15:29 « Maquininha EEE
+= R$26,95
+” into a À
+É a Aprovada
+

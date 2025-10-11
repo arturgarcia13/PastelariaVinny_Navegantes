@@ -1,0 +1,40 @@
+=== credito (6).jpg ===
+Tipo: Credito
+Dimensões: 1057x645
+Tamanho: 29.11 KB
+Processado em: 10/10/2025 16:19:45
+Melhor confiança: 80.7%
+Caracteres extraídos: 138
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+06 set. 2025
+= R$ 24,00
+visa Crédito 1x -R$0,84 5
+21:14 e Maquininha
+Aprovada
+= R$ 32,50
+o Crédito 1x = -R$114
+21:02 e Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 80.7%
+Caracteres: 138
+Texto:
+06 set. 2025
+= R$ 24,00
+visa Crédito 1x -R$0,84 5
+21:14 e Maquininha
+Aprovada
+= R$ 32,50
+o Crédito 1x = -R$114
+21:02 e Maquininha
+Aprovada
+

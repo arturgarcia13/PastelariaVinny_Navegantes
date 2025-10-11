@@ -1,0 +1,136 @@
+=== debito (2).jpg ===
+Tipo: Debito
+Dimensões: 441x1600
+Tamanho: 51.39 KB
+Processado em: 10/10/2025 16:20:09
+Melhor confiança: 71.7%
+Caracteres extraídos: 822
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+08 set. 2025
+Pólo R$14,40
+o Dé , -R$021 >
+20:59 « Maquininha ZE
+pai R$13,00
+ito -R$079
+O 20:13 Maquininha d
+Aprovada
+. R$21,00
+usa Débito -R$0,30 >
+19:49 « Maquininha
+q Aprovada
+. R$13,00
+e Débito -R$019 >
+19:29 » Maquininha
+Aprovada
+R$2,50
+e Débito -R$004 >
+19:22 + Maquininha
+Aprovada
+R$18,00
+o Débito -R$0,48 >
+19:21 * Maquininha ma
+pébito R$16,00
+él -R$0,23
+o 123 >
+19:16 + Maquininth
+laquininha
+patio, R$12,50
+-R$0,33
+O Gezas + Maquininha EE ?
+Débito R$4,50
+-) o -R$012 >
+18:36 « Maquininha TE
+pás R$8,00
+ito -R$012
+o A! dA
+18:29 « Maquininha Em
+R$35,78
+e Débito -R$0,52 >
+17:39 « Maquininha
+Aprovada
+= R$10,50
+e Débito -R$015 >
+17:20 + Maquininha
+Aprovada
+º R$4,00
+visa Débito -R$0,06 >
+17:14 + Maquininha
+Aprovada
+R$23,00
+e Débito -R$0,33 >
+17:03 « Maquininha
+Aprovada
+R$4,00
+" Débito -R$0,06 >
+16:00 « Maquininha =
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 71.7%
+Caracteres: 822
+Texto:
+08 set. 2025
+Pólo R$14,40
+o Dé , -R$021 >
+20:59 « Maquininha ZE
+pai R$13,00
+ito -R$079
+O 20:13 Maquininha d
+Aprovada
+. R$21,00
+usa Débito -R$0,30 >
+19:49 « Maquininha
+q Aprovada
+. R$13,00
+e Débito -R$019 >
+19:29 » Maquininha
+Aprovada
+R$2,50
+e Débito -R$004 >
+19:22 + Maquininha
+Aprovada
+R$18,00
+o Débito -R$0,48 >
+19:21 * Maquininha ma
+pébito R$16,00
+él -R$0,23
+o 123 >
+19:16 + Maquininth
+laquininha
+patio, R$12,50
+-R$0,33
+O Gezas + Maquininha EE ?
+Débito R$4,50
+-) o -R$012 >
+18:36 « Maquininha TE
+pás R$8,00
+ito -R$012
+o A! dA
+18:29 « Maquininha Em
+R$35,78
+e Débito -R$0,52 >
+17:39 « Maquininha
+Aprovada
+= R$10,50
+e Débito -R$015 >
+17:20 + Maquininha
+Aprovada
+º R$4,00
+visa Débito -R$0,06 >
+17:14 + Maquininha
+Aprovada
+R$23,00
+e Débito -R$0,33 >
+17:03 « Maquininha
+Aprovada
+R$4,00
+" Débito -R$0,06 >
+16:00 « Maquininha =
+

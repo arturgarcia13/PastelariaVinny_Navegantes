@@ -1,0 +1,112 @@
+=== debito (14).jpg ===
+Tipo: Debito
+Dimensões: 540x1457
+Tamanho: 53.24 KB
+Processado em: 10/10/2025 16:20:27
+Melhor confiança: 75.1%
+Caracteres extraídos: 647
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+26 set. 2025
+=" R$8,00
+e Débito -R$012 >
+20:55 « Maquininha
+Aprovada
+R$8,00
+FE) Débito -R$0,21 >
+20:46 + Maquininha
+Aprovada
+R$ 16,00
+Débito -R$0,23
+O ou. Maquininha á
+Aprovada
+=" R$ 17,00
+e Débito o -R$0,25 >
+18:00 + Maquininha
+Aprovada
+= R$ 16,00
+o Débito -R$0,42 >
+17:59 « Maquininha
+Aprovada
+=" R$12,00
+sa Débito -R$017 >
+17:48 « Maquininha
+Aprovada
+no R$13,00
+e Débito -R$019 >
+17:47 » Maquininha
+Aprovada
+= R$11,00
+wsa Débito -R$0/6 5
+16:52 « Maquininha
+Aprovada
+=" R$ 4,00
+vsa Débito -R$0,06 >
+16:42 + Maquininha
+Aprovada
+=" R$ 30,50
+e Débito -R$0,44 >
+16:30 + Maquininha
+Aprovada
+no R$10,50
+o Débito = -R$0,28 >
+16:23 « Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 75.1%
+Caracteres: 647
+Texto:
+26 set. 2025
+=" R$8,00
+e Débito -R$012 >
+20:55 « Maquininha
+Aprovada
+R$8,00
+FE) Débito -R$0,21 >
+20:46 + Maquininha
+Aprovada
+R$ 16,00
+Débito -R$0,23
+O ou. Maquininha á
+Aprovada
+=" R$ 17,00
+e Débito o -R$0,25 >
+18:00 + Maquininha
+Aprovada
+= R$ 16,00
+o Débito -R$0,42 >
+17:59 « Maquininha
+Aprovada
+=" R$12,00
+sa Débito -R$017 >
+17:48 « Maquininha
+Aprovada
+no R$13,00
+e Débito -R$019 >
+17:47 » Maquininha
+Aprovada
+= R$11,00
+wsa Débito -R$0/6 5
+16:52 « Maquininha
+Aprovada
+=" R$ 4,00
+vsa Débito -R$0,06 >
+16:42 + Maquininha
+Aprovada
+=" R$ 30,50
+e Débito -R$0,44 >
+16:30 + Maquininha
+Aprovada
+no R$10,50
+o Débito = -R$0,28 >
+16:23 « Maquininha
+Aprovada
+

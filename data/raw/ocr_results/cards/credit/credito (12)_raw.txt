@@ -1,0 +1,134 @@
+=== credito (12).jpg ===
+Tipo: Credito
+Dimensões: 441x1600
+Tamanho: 53.82 KB
+Processado em: 10/10/2025 16:19:52
+Melhor confiança: 74.8%
+Caracteres extraídos: 871
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+16 set 2025
+R$32,00
+E" Crédito 1x -R$112 >
+20:57 + Maquininha
+Aprovada
+R$13,00
+es Crédito 1x -R$0,46 >
+20:35 « Maquininha
+Aprovada
+o R$15,50
+e Crédito x -R$0,54 5
+20:23 « Maquininha
+Aprovada
+= R$15,50
+sa Crédito 1x -R$0,54 >
+20:23 + Maquininha
+Aprovada
+R$14,50
+e Crédito -R$0,51 >
+20:22 « Maquininha FE
+R$12,00
+visa Crédito 1x -R$0,42 >
+19:54 « Maquininha EE
+R$8,00
+" Crédito 1x -R$0,28 >
+19:43 « Maquininhi
+laquininha
+crédito1 R$24,00
+x -R$0,84
+O q5:37 « Maquininha 7 ?
+R$ 24,00
+Q Crédito ix -R$413 >
+19:32 « Maquininha Za
+= R$31,50
+o Sréditoix “R$ >
+18:28 + Maquininha =
+= R$12,00
+eo Crédito x -R$0,42 >
+18:27 « Maquininh
+laquininha
+o R$4,00
+e Crédito x -R$0M >
+17:49 « Maquininha
+Aprovada
+R$22,00
+E" Crédito 1x -R$0,77 >
+17:26 « Maquininha
+Aprovada
+R$18,00
+sa Crédito 1x -R$0,63 >
+17:23 » Maquininha
+Aprovada
+R$9,00
+vsa Crédito 1x -R$0,32 >
+16:10 + Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 74.8%
+Caracteres: 871
+Texto:
+16 set 2025
+R$32,00
+E" Crédito 1x -R$112 >
+20:57 + Maquininha
+Aprovada
+R$13,00
+es Crédito 1x -R$0,46 >
+20:35 « Maquininha
+Aprovada
+o R$15,50
+e Crédito x -R$0,54 5
+20:23 « Maquininha
+Aprovada
+= R$15,50
+sa Crédito 1x -R$0,54 >
+20:23 + Maquininha
+Aprovada
+R$14,50
+e Crédito -R$0,51 >
+20:22 « Maquininha FE
+R$12,00
+visa Crédito 1x -R$0,42 >
+19:54 « Maquininha EE
+R$8,00
+" Crédito 1x -R$0,28 >
+19:43 « Maquininhi
+laquininha
+crédito1 R$24,00
+x -R$0,84
+O q5:37 « Maquininha 7 ?
+R$ 24,00
+Q Crédito ix -R$413 >
+19:32 « Maquininha Za
+= R$31,50
+o Sréditoix “R$ >
+18:28 + Maquininha =
+= R$12,00
+eo Crédito x -R$0,42 >
+18:27 « Maquininh
+laquininha
+o R$4,00
+e Crédito x -R$0M >
+17:49 « Maquininha
+Aprovada
+R$22,00
+E" Crédito 1x -R$0,77 >
+17:26 « Maquininha
+Aprovada
+R$18,00
+sa Crédito 1x -R$0,63 >
+17:23 » Maquininha
+Aprovada
+R$9,00
+vsa Crédito 1x -R$0,32 >
+16:10 + Maquininha
+Aprovada
+

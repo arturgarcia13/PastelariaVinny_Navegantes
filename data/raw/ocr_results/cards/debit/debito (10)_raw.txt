@@ -1,0 +1,48 @@
+=== debito (10).jpg ===
+Tipo: Debito
+Dimensões: 1080x901
+Tamanho: 40.28 KB
+Processado em: 10/10/2025 16:20:21
+Melhor confiança: 80.2%
+Caracteres extraídos: 192
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+20 set. 2025
+o R$ 21,00
+e Débito = - R$ 0,30
+20:15 e Maquininha
+Aprovada
+=" R$ 14,53
+visa Débito -R$0,21
+19:46 e Maquininha
+Aprovada
+= R$ 28,00
+visa Débito -R$0,41
+19:29 «e Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 80.2%
+Caracteres: 192
+Texto:
+20 set. 2025
+o R$ 21,00
+e Débito = - R$ 0,30
+20:15 e Maquininha
+Aprovada
+=" R$ 14,53
+visa Débito -R$0,21
+19:46 e Maquininha
+Aprovada
+= R$ 28,00
+visa Débito -R$0,41
+19:29 «e Maquininha
+Aprovada
+

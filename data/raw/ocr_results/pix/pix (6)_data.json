@@ -1,0 +1,135 @@
+{
+  "day_folder": "pix (6)",
+  "date_info": "22 set. 2025",
+  "header_text": "22 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "Pix R$ 2,00\n@ 21:03 * EMANOELY'CASTRO _—«—~Processando taxa >\nBRAGA DE LIMA [ Aprovada |",
+      "processed_text": "Pix R$ 2,00 21:03 EMANOELY CASTRO _ Processando taxa BRAGA DE LIMA Aprovada",
+      "confidence": 66.8125,
+      "timestamp": null,
+      "amount": "R$ 2,00",
+      "description": "Pix R$ 2,00 21:03 EMANOELY CASTRO _ Processando taxa BRAGA DE LIMA Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix R$ 12,00\n& 21:02 GUILHERME PEREIRA —‘- Processando taxa >",
+      "processed_text": "Pix R$ 12,00 21:02 GUILHERME PEREIRA - Processando taxa",
+      "confidence": 64.1,
+      "timestamp": null,
+      "amount": "R$ 12,00",
+      "description": "Pix R$ 12,00 21:02 GUILHERME PEREIRA - Processando taxa"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Pix R$ 16,00\n& 21:00 * EMANOELY CASTRO Processando taxa »\nBRAGA DE LIMA [ Aprovada |",
+      "processed_text": "Pix R$ 16,00 21:00 EMANOELY CASTRO Processando taxa BRAGA DE LIMA Aprovada",
+      "confidence": 79.3529411764706,
+      "timestamp": null,
+      "amount": "R$ 16,00",
+      "description": "Pix R$ 16,00 21:00 EMANOELY CASTRO Processando taxa BRAGA DE LIMA Aprovada"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "Dix R$ 26,00\n& 20:42 GUILHERME PEREIRA —- Processando taxa »",
+      "processed_text": "Dix R$ 26,00 20:42 GUILHERME PEREIRA - Processando taxa",
+      "confidence": 74.18181818181819,
+      "timestamp": null,
+      "amount": "R$ 26,00",
+      "description": "Dix R$ 26,00 20:42 GUILHERME PEREIRA - Processando taxa"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "Dix R$ 10,00\n@ 19:20 + YULIETH ANDREA Processando taxa >\nTENORIO HURTADO",
+      "processed_text": "Dix R$ 10,00 19:20 + YULIETH ANDREA Processando taxa TENORIO HURTADO",
+      "confidence": 70.07692307692308,
+      "timestamp": null,
+      "amount": "R$ 10,00",
+      "description": "Dix R$ 10,00 19:20 + YULIETH ANDREA Processando taxa TENORIO HURTADO"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "Pix R$ 10,00\n& 18:20 « CRISTIANO'FERNANDES Pfocessando taxa >",
+      "processed_text": "Pix R$ 10,00 18:20 CRISTIANO FERNANDES Pfocessando taxa",
+      "confidence": 73.55555555555556,
+      "timestamp": null,
+      "amount": "R$ 10,00",
+      "description": "Pix R$ 10,00 18:20 CRISTIANO FERNANDES Pfocessando taxa"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "; R$ 8,50\n&® Pix Processando taxa »\n18:09 « FCA LEONILD SAMPAIO ; |",
+      "processed_text": "R$ 8,50 Pix Processando taxa 18:09 FCA LEONILD SAMPAIO",
+      "confidence": 74.6,
+      "timestamp": null,
+      "amount": "R$ 8,50",
+      "description": "R$ 8,50 Pix Processando taxa 18:09 FCA LEONILD SAMPAIO"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "Pix R$ 9,00\nQ] 17:44.6 JUNIANA KELLE LOPES Procesando taxa >",
+      "processed_text": "Pix R$ 9,00 Q 17:44.6 JUNIANA KELLE LOPES Procesando taxa",
+      "confidence": 63.666666666666664,
+      "timestamp": null,
+      "amount": "R$ 9,00",
+      "description": "Pix R$ 9,00 Q 17:44.6 JUNIANA KELLE LOPES Procesando taxa"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Pix R$ 14,00\n& 17:39 « Maria do Socorro de Processando taxa: >\nSousa Antunes Augusto [ Aprovada |",
+      "processed_text": "Pix R$ 14,00 17:39 Maria do Socorro de Processando taxa: Sousa Antunes Augusto Aprovada",
+      "confidence": 86.73684210526316,
+      "timestamp": null,
+      "amount": "R$ 14,00",
+      "description": "Pix R$ 14,00 17:39 Maria do Socorro de Processando taxa: Sousa Antunes Augusto Aprovada"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "Pix R$ 14,00\n& 17:29 PEDRORAFAEL CosTA Processando taxa",
+      "processed_text": "Pix R$ 14,00 17:29 PEDRORAFAEL CosTA Processando taxa",
+      "confidence": 66.77777777777777,
+      "timestamp": null,
+      "amount": "R$ 14,00",
+      "description": "Pix R$ 14,00 17:29 PEDRORAFAEL CosTA Processando taxa"
+    },
+    {
+      "quadrant_number": 12,
+      "raw_text": "Pix R$ 4,00\n& 17:27 « Valviane Ribeiro Moura Processandotaxa »",
+      "processed_text": "Pix R$ 4,00 17:27 Valviane Ribeiro Moura Processandotaxa",
+      "confidence": 69.27272727272727,
+      "timestamp": null,
+      "amount": "R$ 4,00",
+      "description": "Pix R$ 4,00 17:27 Valviane Ribeiro Moura Processandotaxa"
+    },
+    {
+      "quadrant_number": 13,
+      "raw_text": "Dix R$ 11,00\n& 17:26 « SAMUEL. VITURINO Processando taxa >\nVASCONCELOS [ Aprovada |",
+      "processed_text": "Dix R$ 11,00 17:26 SAMUEL. VITURINO Processando taxa VASCONCELOS Aprovada",
+      "confidence": 73.8,
+      "timestamp": null,
+      "amount": "R$ 11,00",
+      "description": "Dix R$ 11,00 17:26 SAMUEL. VITURINO Processando taxa VASCONCELOS Aprovada"
+    },
+    {
+      "quadrant_number": 14,
+      "raw_text": "& 17:26 JESSICADE CASTRO _—C~PFOcessando taxa »",
+      "processed_text": "17:26 JESSICADE CASTRO _ C PFOcessando taxa",
+      "confidence": 33.0,
+      "timestamp": null,
+      "amount": null,
+      "description": "17:26 JESSICADE CASTRO _ C PFOcessando taxa"
+    },
+    {
+      "quadrant_number": 15,
+      "raw_text": "Pix RS 8,00\n& 16:56 » Eliania Rodrigues de Processando taxa >",
+      "processed_text": "Pix RS 8,00 16:56 Eliania Rodrigues de Processando taxa",
+      "confidence": 85.0,
+      "timestamp": null,
+      "amount": null,
+      "description": "Pix RS 8,00 16:56 Eliania Rodrigues de Processando taxa"
+    }
+  ],
+  "total_quadrants": 15,
+  "processing_timestamp": "2025-10-10T11:10:26.062339"
+}

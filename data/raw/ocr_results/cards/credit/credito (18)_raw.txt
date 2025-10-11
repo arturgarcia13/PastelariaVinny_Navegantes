@@ -1,0 +1,96 @@
+=== credito (18).jpg ===
+Tipo: Credito
+Dimensões: 713x1600
+Tamanho: 65.78 KB
+Processado em: 10/10/2025 16:20:03
+Melhor confiança: 78.1%
+Caracteres extraídos: 584
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+24 set. 2025
+o R$ 49,00
+e Crédito 1x o -R$172 5
+20:41 « Maquininha
+Aprovada
+o R$ 26,00
+ai Crédito 1x -R$0,91 5
+19:52 e Maquininha
+Aprovada
+o R$ 10,00
+" Crédito 1x o -R$0,35 5
+19:32 e Maquininha
+Aprovada
+R$ 11,00
+Fe) Crédito 1x -R$0,52 5
+19:27 « Maquininha l
+Aprovada
+R$ 50,00
+F) Crédito 1x -R$2,35 5
+17:47 « Maquininha
+Aprovada
+= R$ 15,00
+eo Crédito 1x = -R$0,53 5
+17:17 « Maquininha
+Aprovada
+o R$ 16,00
+o Crédito 1x o -R$0,56 5
+17:14 «e Maquininha
+Aprovada
+= R$ 4,00
+visa Crédito 1x -R$014 5
+16:00 « Maquininha
+Aprovada
+o R$ 18,00
+" Credito 1x = -R$0,63 5
+15:51 « Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 78.1%
+Caracteres: 584
+Texto:
+24 set. 2025
+o R$ 49,00
+e Crédito 1x o -R$172 5
+20:41 « Maquininha
+Aprovada
+o R$ 26,00
+ai Crédito 1x -R$0,91 5
+19:52 e Maquininha
+Aprovada
+o R$ 10,00
+" Crédito 1x o -R$0,35 5
+19:32 e Maquininha
+Aprovada
+R$ 11,00
+Fe) Crédito 1x -R$0,52 5
+19:27 « Maquininha l
+Aprovada
+R$ 50,00
+F) Crédito 1x -R$2,35 5
+17:47 « Maquininha
+Aprovada
+= R$ 15,00
+eo Crédito 1x = -R$0,53 5
+17:17 « Maquininha
+Aprovada
+o R$ 16,00
+o Crédito 1x o -R$0,56 5
+17:14 «e Maquininha
+Aprovada
+= R$ 4,00
+visa Crédito 1x -R$014 5
+16:00 « Maquininha
+Aprovada
+o R$ 18,00
+" Credito 1x = -R$0,63 5
+15:51 « Maquininha
+Aprovada
+

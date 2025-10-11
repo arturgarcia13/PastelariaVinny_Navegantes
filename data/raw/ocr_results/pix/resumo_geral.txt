@@ -1,0 +1,131 @@
+RELATÓRIO RESUMO - TRANSAÇÕES POR DIA
+==================================================
+Gerado em: 10/10/2025 11:14:51
+Total de dias processados: 21
+
+📅 pix (1) - 29 set. 2025
+   Transações: 15
+   Quadrantes: 16
+   Confiança média: 77.0%
+   Valores encontrados: 14
+
+📅 pix (2) - 27 set. 2025
+   Transações: 13
+   Quadrantes: 14
+   Confiança média: 69.7%
+   Valores encontrados: 11
+
+📅 pix (3) - 26 set. 2025
+   Transações: 11
+   Quadrantes: 12
+   Confiança média: 71.7%
+   Valores encontrados: 11
+
+📅 pix (4) - 24 set. 2025
+   Transações: 15
+   Quadrantes: 16
+   Confiança média: 70.2%
+   Valores encontrados: 12
+
+📅 pix (5) - 23 set. 2025
+   Transações: 10
+   Quadrantes: 11
+   Confiança média: 74.6%
+   Valores encontrados: 10
+
+📅 pix (6) - 22 set. 2025
+   Transações: 14
+   Quadrantes: 15
+   Confiança média: 70.1%
+   Valores encontrados: 12
+
+📅 pix (7) - 20 set. 2025
+   Transações: 14
+   Quadrantes: 15
+   Confiança média: 76.3%
+   Valores encontrados: 14
+
+📅 pix (8) - 19 set. 2025
+   Transações: 23
+   Quadrantes: 24
+   Confiança média: 72.1%
+   Valores encontrados: 23
+
+📅 pix (9) - 17 set. 2025
+   Transações: 21
+   Quadrantes: 22
+   Confiança média: 75.6%
+   Valores encontrados: 21
+
+📅 pix (10) - 16 set. 2025
+   Transações: 15
+   Quadrantes: 16
+   Confiança média: 72.9%
+   Valores encontrados: 15
+
+📅 pix (11) - 15 set. 2025
+   Transações: 19
+   Quadrantes: 20
+   Confiança média: 74.9%
+   Valores encontrados: 19
+
+📅 pix (12) - Data não identificada
+   Transações: 23
+   Quadrantes: 24
+   Confiança média: 74.0%
+   Valores encontrados: 22
+
+📅 pix (13) - 10 set. 2025
+   Transações: 31
+   Quadrantes: 32
+   Confiança média: 71.4%
+   Valores encontrados: 27
+
+📅 pix (14) - Data não identificada
+   Transações: 14
+   Quadrantes: 15
+   Confiança média: 71.9%
+   Valores encontrados: 14
+
+📅 pix (15) - 08 set. 2025
+   Transações: 19
+   Quadrantes: 20
+   Confiança média: 70.0%
+   Valores encontrados: 17
+
+📅 pix (16) - 06 set. 2025
+   Transações: 9
+   Quadrantes: 10
+   Confiança média: 79.6%
+   Valores encontrados: 8
+
+📅 pix (17) - 05 set. 2025
+   Transações: 24
+   Quadrantes: 25
+   Confiança média: 74.2%
+   Valores encontrados: 23
+
+📅 pix (18) - 04 set. 2025
+   Transações: 14
+   Quadrantes: 15
+   Confiança média: 76.7%
+   Valores encontrados: 14
+
+📅 pix (19) - 03 out. 2025
+   Transações: 15
+   Quadrantes: 16
+   Confiança média: 74.4%
+   Valores encontrados: 15
+
+📅 pix (20) - 02 set. 2025
+   Transações: 26
+   Quadrantes: 27
+   Confiança média: 75.7%
+   Valores encontrados: 23
+
+📅 pix (21) - 30 set. 2025
+   Transações: 10
+   Quadrantes: 11
+   Confiança média: 75.5%
+   Valores encontrados: 10
+

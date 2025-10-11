@@ -1,0 +1,80 @@
+=== debito (15).jpg ===
+Tipo: Debito
+Dimensões: 900x1600
+Tamanho: 66.47 KB
+Processado em: 10/10/2025 16:20:28
+Melhor confiança: 80.0%
+Caracteres extraídos: 436
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+27 set. 2025
+o R$ 13,00
+P" Débito = -R$019 5
+20:12 « Maquininha
+Aprovada
+o R$ 20,00
+" Débito = -R$0,29 5
+20:08 e Maquininha
+Aprovada
+= R$ 14,00
+" Débito = -R$0,20 5
+19:54 « Maquininha
+Aprovada
+= R$ 14,00
+e Débito = -R$0,20 5
+19:23 « Maquininha
+Aprovada
+no R$ 13,00
+visa Débito -R$019 5
+18:55 « Maquininha
+Aprovada
+= R$ 27,00
+asa Débito - R$ 0,39 >
+18:27 « Maquininha
+Aprovada
+= R$ 33,00
+visa Débito -R$0,48 5
+18:14 « Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 80.0%
+Caracteres: 436
+Texto:
+27 set. 2025
+o R$ 13,00
+P" Débito = -R$019 5
+20:12 « Maquininha
+Aprovada
+o R$ 20,00
+" Débito = -R$0,29 5
+20:08 e Maquininha
+Aprovada
+= R$ 14,00
+" Débito = -R$0,20 5
+19:54 « Maquininha
+Aprovada
+= R$ 14,00
+e Débito = -R$0,20 5
+19:23 « Maquininha
+Aprovada
+no R$ 13,00
+visa Débito -R$019 5
+18:55 « Maquininha
+Aprovada
+= R$ 27,00
+asa Débito - R$ 0,39 >
+18:27 « Maquininha
+Aprovada
+= R$ 33,00
+visa Débito -R$0,48 5
+18:14 « Maquininha
+Aprovada
+

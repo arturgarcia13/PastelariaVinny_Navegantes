@@ -1,0 +1,144 @@
+{
+  "day_folder": "pix (4)",
+  "date_info": "24 set. 2025",
+  "header_text": "24 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "R$ 16,00\n& Pix Processando taxa »\nKoo 2 ws\n20:23 « Taynah Santos Benicio —_)\nAprovada |",
+      "processed_text": "R$ 16,00 Pix Processando taxa Koo 2 ws 20:23 Taynah Santos Benicio _) Aprovada",
+      "confidence": 68.83333333333333,
+      "timestamp": null,
+      "amount": "R$ 16,00",
+      "description": "R$ 16,00 Pix Processando taxa Koo 2 ws 20:23 Taynah Santos Benicio _) Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix RE 4,50\nQH 20:12» Paulo Henrique Lopes Procesando taxa >\nDe Oliveira [ Aprovada |",
+      "processed_text": "Pix RE 4,50 QH 20:12 Paulo Henrique Lopes Procesando taxa De Oliveira Aprovada",
+      "confidence": 69.07142857142857,
+      "timestamp": null,
+      "amount": null,
+      "description": "Pix RE 4,50 QH 20:12 Paulo Henrique Lopes Procesando taxa De Oliveira Aprovada"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Dix R$ 22,50\n& 19:10 MARIZAGONCALVES _—~PFocessando taxa »",
+      "processed_text": "Dix R$ 22,50 19:10 MARIZAGONCALVES _ PFocessando taxa",
+      "confidence": 59.888888888888886,
+      "timestamp": null,
+      "amount": "R$ 22,50",
+      "description": "Dix R$ 22,50 19:10 MARIZAGONCALVES _ PFocessando taxa"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "; R$ 20,00\n& Pix Processando taxa >\n18:58 © Rosane Zeferino",
+      "processed_text": "R$ 20,00 Pix Processando taxa 18:58 Rosane Zeferino",
+      "confidence": 77.75,
+      "timestamp": null,
+      "amount": "R$ 20,00",
+      "description": "R$ 20,00 Pix Processando taxa 18:58 Rosane Zeferino"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "Pix R$ 22,00\n& 18:34 * INDIRA G M LOPES Processando taxa »",
+      "processed_text": "Pix R$ 22,00 18:34 INDIRA G M LOPES Processando taxa",
+      "confidence": 74.38461538461539,
+      "timestamp": null,
+      "amount": "R$ 22,00",
+      "description": "Pix R$ 22,00 18:34 INDIRA G M LOPES Processando taxa"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "; R$ 25,00\n& Pix Processando taxa 5\n18:28 « PAULO ROBERTO ALVES\nAprovada",
+      "processed_text": "R$ 25,00 Pix Processando taxa 5 18:28 PAULO ROBERTO ALVES Aprovada",
+      "confidence": 79.78571428571429,
+      "timestamp": null,
+      "amount": "R$ 25,00",
+      "description": "R$ 25,00 Pix Processando taxa 5 18:28 PAULO ROBERTO ALVES Aprovada"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "R$ 4,00\nQ, Pix Processando taxa\nea : a>\n18:27 » Daniele Costa de Souza ; |\nAprovada",
+      "processed_text": "R$ 4,00 Q, Pix Processando taxa ea : a 18:27 Daniele Costa de Souza Aprovada",
+      "confidence": 69.11111111111111,
+      "timestamp": null,
+      "amount": "R$ 4,00",
+      "description": "R$ 4,00 Q, Pix Processando taxa ea : a 18:27 Daniele Costa de Souza Aprovada"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "Dix R$ 10,00\n& 18:18 » PEDRO RAFAEL CosTA ——-Processando taxa >",
+      "processed_text": "Dix R$ 10,00 18:18 PEDRO RAFAEL CosTA -Processando taxa",
+      "confidence": 66.33333333333333,
+      "timestamp": null,
+      "amount": "R$ 10,00",
+      "description": "Dix R$ 10,00 18:18 PEDRO RAFAEL CosTA -Processando taxa"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "R$ 13,00\ng, Pix Processando taxa\nYS ; >\n18°18 ¢ ITALO DE SOUZA PORTO. ;\nAprovada |",
+      "processed_text": "R$ 13,00 g, Pix Processando taxa YS 18 18 ITALO DE SOUZA PORTO. Aprovada",
+      "confidence": 73.29411764705883,
+      "timestamp": null,
+      "amount": "R$ 13,00",
+      "description": "R$ 13,00 g, Pix Processando taxa YS 18 18 ITALO DE SOUZA PORTO. Aprovada"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "Pix R$ 21,30\n& 18:00» Rita de Cassia de Processando taxa >\nOliveira Silva-Magalhaes [ Aprovada |",
+      "processed_text": "Pix R$ 21,30 18:00 Rita de Cassia de Processando taxa Oliveira Silva-Magalhaes Aprovada",
+      "confidence": 80.17647058823529,
+      "timestamp": null,
+      "amount": "R$ 21,30",
+      "description": "Pix R$ 21,30 18:00 Rita de Cassia de Processando taxa Oliveira Silva-Magalhaes Aprovada"
+    },
+    {
+      "quadrant_number": 12,
+      "raw_text": "Pix R$ 17,50\n& 17:23 « Regina Ferreira de Processando taxa >",
+      "processed_text": "Pix R$ 17,50 17:23 Regina Ferreira de Processando taxa",
+      "confidence": 67.5,
+      "timestamp": null,
+      "amount": "R$ 17,50",
+      "description": "Pix R$ 17,50 17:23 Regina Ferreira de Processando taxa"
+    },
+    {
+      "quadrant_number": 13,
+      "raw_text": "Pix R$ 3,00\n& 16:41» MYLENAEVILYN Sousa Procesando taxa >",
+      "processed_text": "Pix R$ 3,00 16:41 MYLENAEVILYN Sousa Procesando taxa",
+      "confidence": 56.3,
+      "timestamp": null,
+      "amount": "R$ 3,00",
+      "description": "Pix R$ 3,00 16:41 MYLENAEVILYN Sousa Procesando taxa"
+    },
+    {
+      "quadrant_number": 14,
+      "raw_text": "@ 16:37 » GABRIEL BARBOSA Processando taxa >",
+      "processed_text": "16:37 GABRIEL BARBOSA Processando taxa",
+      "confidence": 76.5,
+      "timestamp": null,
+      "amount": null,
+      "description": "16:37 GABRIEL BARBOSA Processando taxa"
+    },
+    {
+      "quadrant_number": 15,
+      "raw_text": "Pix RE 8,00\n& 16:05 + Carla Larissa Farias «Procesando taxa >",
+      "processed_text": "Pix RE 8,00 16:05 + Carla Larissa Farias Procesando taxa",
+      "confidence": 61.4,
+      "timestamp": null,
+      "amount": null,
+      "description": "Pix RE 8,00 16:05 + Carla Larissa Farias Procesando taxa"
+    },
+    {
+      "quadrant_number": 16,
+      "raw_text": "Pix R$ 17,50\n@ 15:38 JOSINEIDEFONCECA —-Processando taxa >\nLEMOS ARRUDA [ Aprovada |",
+      "processed_text": "Pix R$ 17,50 15:38 JOSINEIDEFONCECA -Processando taxa LEMOS ARRUDA Aprovada",
+      "confidence": 72.21428571428571,
+      "timestamp": null,
+      "amount": "R$ 17,50",
+      "description": "Pix R$ 17,50 15:38 JOSINEIDEFONCECA -Processando taxa LEMOS ARRUDA Aprovada"
+    }
+  ],
+  "total_quadrants": 16,
+  "processing_timestamp": "2025-10-10T11:10:03.536387"
+}

@@ -1,0 +1,144 @@
+{
+  "day_folder": "pix (1)",
+  "date_info": "29 set. 2025",
+  "header_text": "29 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "; R$ 13,00\n\n& Pix . Processando taxa »\n20:51. Rafael Ricardo. Dutra |\nCapra",
+      "processed_text": "R$ 13,00 Pix . Processando taxa 20:51. Rafael Ricardo. Dutra Capra",
+      "confidence": 74.21428571428571,
+      "timestamp": null,
+      "amount": "R$ 13,00",
+      "description": "R$ 13,00 Pix . Processando taxa 20:51. Rafael Ricardo. Dutra Capra"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix R$ 8,46\n& 20:39 « Danley Erlen de Oliveira Processando taxa >",
+      "processed_text": "Pix R$ 8,46 20:39 Danley Erlen de Oliveira Processando taxa",
+      "confidence": 82.15384615384616,
+      "timestamp": null,
+      "amount": "R$ 8,46",
+      "description": "Pix R$ 8,46 20:39 Danley Erlen de Oliveira Processando taxa"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Pix R$ 8,00\n& 20:29 « Maria Bianca de Freitas Processando taxa >",
+      "processed_text": "Pix R$ 8,00 20:29 Maria Bianca de Freitas Processando taxa",
+      "confidence": 91.6923076923077,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "Pix R$ 8,00 20:29 Maria Bianca de Freitas Processando taxa"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "R$.25,85\n& Pix Processando taxa\n20:22 © Leticia Medeiros Pereira\nAprovada",
+      "processed_text": "R$.25,85 Pix Processando taxa 20:22 Leticia Medeiros Pereira Aprovada",
+      "confidence": 81.0909090909091,
+      "timestamp": null,
+      "amount": "R$.25,85",
+      "description": "R$.25,85 Pix Processando taxa 20:22 Leticia Medeiros Pereira Aprovada"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "Pix R$ 32,90\n& 19:13 © Antonio Ermando Gomes Processando taxa >\nde Oliveira",
+      "processed_text": "Pix R$ 32,90 19:13 Antonio Ermando Gomes Processando taxa de Oliveira",
+      "confidence": 65.85714285714286,
+      "timestamp": null,
+      "amount": "R$ 32,90",
+      "description": "Pix R$ 32,90 19:13 Antonio Ermando Gomes Processando taxa de Oliveira"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "Pix R$ 17,00\n& 18:42 * Amanda Domingos de Processando taxa >",
+      "processed_text": "Pix R$ 17,00 18:42 Amanda Domingos de Processando taxa",
+      "confidence": 74.25,
+      "timestamp": null,
+      "amount": "R$ 17,00",
+      "description": "Pix R$ 17,00 18:42 Amanda Domingos de Processando taxa"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "Pix R$ 25.00\n& 18:02 + MARIZAGONCALVES _—‘Processandotaxa »",
+      "processed_text": "Pix R$ 25.00 18:02 + MARIZAGONCALVES _ Processandotaxa",
+      "confidence": 79.66666666666667,
+      "timestamp": null,
+      "amount": "R$ 25.00",
+      "description": "Pix R$ 25.00 18:02 + MARIZAGONCALVES _ Processandotaxa"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "Pix R$ 4,00\n& 17:55 * Maria de Lourdes Processando taxa >\nMonteiro Martins [ Aprovada |",
+      "processed_text": "Pix R$ 4,00 17:55 Maria de Lourdes Processando taxa Monteiro Martins Aprovada",
+      "confidence": 83.29411764705883,
+      "timestamp": null,
+      "amount": "R$ 4,00",
+      "description": "Pix R$ 4,00 17:55 Maria de Lourdes Processando taxa Monteiro Martins Aprovada"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Pix R$ 8,50\n& 17:48 ¢ Maria de Lourdes Processando taxa >\nMonteiro Martins [ Aprovada |",
+      "processed_text": "Pix R$ 8,50 17:48 Maria de Lourdes Processando taxa Monteiro Martins Aprovada",
+      "confidence": 85.82352941176471,
+      "timestamp": null,
+      "amount": "R$ 8,50",
+      "description": "Pix R$ 8,50 17:48 Maria de Lourdes Processando taxa Monteiro Martins Aprovada"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "R$ 15,00\n& Pix Processando taxa 5\n<> a « a\n17:47 » Vanessa Almeida Pinho\nAprovada |",
+      "processed_text": "R$ 15,00 Pix Processando taxa 5 a a 17:47 Vanessa Almeida Pinho Aprovada",
+      "confidence": 78.94117647058823,
+      "timestamp": null,
+      "amount": "R$ 15,00",
+      "description": "R$ 15,00 Pix Processando taxa 5 a a 17:47 Vanessa Almeida Pinho Aprovada"
+    },
+    {
+      "quadrant_number": 12,
+      "raw_text": "Pix R$ 13,80\n& 16:57 » Samilly Albuquerque Processando taxa >",
+      "processed_text": "Pix R$ 13,80 16:57 Samilly Albuquerque Processando taxa",
+      "confidence": 71.45454545454545,
+      "timestamp": null,
+      "amount": "R$ 13,80",
+      "description": "Pix R$ 13,80 16:57 Samilly Albuquerque Processando taxa"
+    },
+    {
+      "quadrant_number": 13,
+      "raw_text": "Dix R$ 13,00\n& 16:56 e Jose Mauricio Cardoso Processando taxa: >",
+      "processed_text": "Dix R$ 13,00 16:56 e Jose Mauricio Cardoso Processando taxa:",
+      "confidence": 80.75,
+      "timestamp": null,
+      "amount": "R$ 13,00",
+      "description": "Dix R$ 13,00 16:56 e Jose Mauricio Cardoso Processando taxa:"
+    },
+    {
+      "quadrant_number": 14,
+      "raw_text": "& 16:35 - ANASOFIADAROCHA Processando taxa >\nSOUZA LEAL [ Aprovada |",
+      "processed_text": "16:35 - ANASOFIADAROCHA Processando taxa SOUZA LEAL Aprovada",
+      "confidence": 58.25,
+      "timestamp": null,
+      "amount": null,
+      "description": "16:35 - ANASOFIADAROCHA Processando taxa SOUZA LEAL Aprovada"
+    },
+    {
+      "quadrant_number": 15,
+      "raw_text": "; R$ 14,16\n\n& Pix Processando taxa 5\n15:40 « ELLEN RABELO SILVA\nAprovada |",
+      "processed_text": "R$ 14,16 Pix Processando taxa 5 15:40 ELLEN RABELO SILVA Aprovada",
+      "confidence": 80.86666666666666,
+      "timestamp": null,
+      "amount": "R$ 14,16",
+      "description": "R$ 14,16 Pix Processando taxa 5 15:40 ELLEN RABELO SILVA Aprovada"
+    },
+    {
+      "quadrant_number": 16,
+      "raw_text": "Pix R$ 11,00\nQ} 15:28+ DANIELLYDE JESUS —- Procesando taxa >\nCOELHO BELTRAO DE SOUZA [ Aprovada |",
+      "processed_text": "Pix R$ 11,00 Q 15:28+ DANIELLYDE JESUS - Procesando taxa COELHO BELTRAO DE SOUZA Aprovada",
+      "confidence": 66.11111111111111,
+      "timestamp": null,
+      "amount": "R$ 11,00",
+      "description": "Pix R$ 11,00 Q 15:28+ DANIELLYDE JESUS - Procesando taxa COELHO BELTRAO DE SOUZA Aprovada"
+    }
+  ],
+  "total_quadrants": 16,
+  "processing_timestamp": "2025-10-10T11:09:30.187745"
+}

@@ -1,0 +1,56 @@
+=== credito (15).jpg ===
+Tipo: Credito
+Dimensões: 1080x1150
+Tamanho: 56.83 KB
+Processado em: 10/10/2025 16:19:59
+Melhor confiança: 79.8%
+Caracteres extraídos: 265
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+20 set. 2025
+= R$ 5,00
+e Crédito 1x = - R$ 0,18
+20:24 e Maquininha
+Aprovada
+= R$ 24,00
+o Crédito 1x = - R$ 0,84
+20:08 e Maquininha
+Aprovada
+= R$ 22,00
+e Crédito 1x = -R$0,77
+18:32 e Maquininha
+Aprovada
+= R$ 11,50
+e Crédito 1x = - R$0,40
+18:06 «e Maquininha
+Aprovada
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 79.8%
+Caracteres: 265
+Texto:
+20 set. 2025
+= R$ 5,00
+e Crédito 1x = - R$ 0,18
+20:24 e Maquininha
+Aprovada
+= R$ 24,00
+o Crédito 1x = - R$ 0,84
+20:08 e Maquininha
+Aprovada
+= R$ 22,00
+e Crédito 1x = -R$0,77
+18:32 e Maquininha
+Aprovada
+= R$ 11,50
+e Crédito 1x = - R$0,40
+18:06 «e Maquininha
+Aprovada
+

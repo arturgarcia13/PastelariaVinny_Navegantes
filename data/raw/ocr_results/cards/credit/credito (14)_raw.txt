@@ -1,0 +1,118 @@
+=== credito (14).jpg ===
+Tipo: Credito
+Dimensões: 506x1600
+Tamanho: 55.32 KB
+Processado em: 10/10/2025 16:19:57
+Melhor confiança: 76.7%
+Caracteres extraídos: 794
+
+==================================================
+TEXTO EXTRAÍDO (MELHOR RESULTADO):
+==================================================
+
+19 set. 2025
+aii R$22,00
+rédito 1x -R$0,77
+eo Ss . 77 >
+20:39 « Maquininha a
+= R$ 50,00
+e Crédito 1x -R$176 >
+20:24 + Maquininha
+Aprovada
+Crédito 1 seas
+rédito 1x -R$0,23
+- coz. Maquininha ?
+Aprovada
+R$ 9,00
+visa Crédito 1x -R$032 >
+19:41 « Maquininha R
+R$13,50
+visa Crédito 1x , -R$0,47 >
+18:45 « Maquininha a
+= R$28,30
+visa Crédito 1x -R$0,99 >
+18:14 « Maquininha
+Aprovada
+Crédio 1 R$33,80
+rédito 1x -R$119
+o mn. Maquininha ?
+Aprovada
+crádito + R$12,00
+rédito 1x -R$0,42
+O cus. Maquininha ?
+Aprovada
+R$9,00
+" Crédito 1x = -R$0,32 5
+16:23 « Maquininha Ap a
+= R$10,00
+visa Crédito 1x -R$0,35 >
+15:55 « Maquininha z
+R$10,03
+visa Crédito 1x -R$0,35 >
+15:43 + Maquininha
+Aprovada
+R$12,69
+va Crédito 1x -R$0,45 >
+15:35 + Maquininha
+Aprovada
+= R$21,98
+visa Crédito 1x = -R$077 >
+15:28 « Maquininha a
+
+==================================================
+RESULTADOS DE TODAS AS CONFIGURAÇÕES:
+==================================================
+
+--- CONFIG1 ---
+Confiança: 76.7%
+Caracteres: 794
+Texto:
+19 set. 2025
+aii R$22,00
+rédito 1x -R$0,77
+eo Ss . 77 >
+20:39 « Maquininha a
+= R$ 50,00
+e Crédito 1x -R$176 >
+20:24 + Maquininha
+Aprovada
+Crédito 1 seas
+rédito 1x -R$0,23
+- coz. Maquininha ?
+Aprovada
+R$ 9,00
+visa Crédito 1x -R$032 >
+19:41 « Maquininha R
+R$13,50
+visa Crédito 1x , -R$0,47 >
+18:45 « Maquininha a
+= R$28,30
+visa Crédito 1x -R$0,99 >
+18:14 « Maquininha
+Aprovada
+Crédio 1 R$33,80
+rédito 1x -R$119
+o mn. Maquininha ?
+Aprovada
+crádito + R$12,00
+rédito 1x -R$0,42
+O cus. Maquininha ?
+Aprovada
+R$9,00
+" Crédito 1x = -R$0,32 5
+16:23 « Maquininha Ap a
+= R$10,00
+visa Crédito 1x -R$0,35 >
+15:55 « Maquininha z
+R$10,03
+visa Crédito 1x -R$0,35 >
+15:43 + Maquininha
+Aprovada
+R$12,69
+va Crédito 1x -R$0,45 >
+15:35 + Maquininha
+Aprovada
+= R$21,98
+visa Crédito 1x = -R$077 >
+15:28 « Maquininha a
+

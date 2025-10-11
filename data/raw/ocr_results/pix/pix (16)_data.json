@@ -1,0 +1,90 @@
+{
+  "day_folder": "pix (16)",
+  "date_info": "06 set. 2025",
+  "header_text": "06 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "& 21:21» VALTER URI Processando taxa »\nMARTINIANO [ Aprovada |",
+      "processed_text": "21:21 VALTER URI Processando taxa MARTINIANO Aprovada",
+      "confidence": 69.54545454545455,
+      "timestamp": null,
+      "amount": null,
+      "description": "21:21 VALTER URI Processando taxa MARTINIANO Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix R$ 15,00\n& 21:20 * Antonio Claudio Mota Processando taxa >",
+      "processed_text": "Pix R$ 15,00 21:20 Antonio Claudio Mota Processando taxa",
+      "confidence": 79.91666666666667,
+      "timestamp": null,
+      "amount": "R$ 15,00",
+      "description": "Pix R$ 15,00 21:20 Antonio Claudio Mota Processando taxa"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Pix R$ 3,00\noc 2118 * Eduardo Henrique Processando taxa >\nFreitas Barreira Lima [ Aprovada |",
+      "processed_text": "Pix R$ 3,00 oc 2118 Eduardo Henrique Processando taxa Freitas Barreira Lima Aprovada",
+      "confidence": 85.6875,
+      "timestamp": null,
+      "amount": "R$ 3,00",
+      "description": "Pix R$ 3,00 oc 2118 Eduardo Henrique Processando taxa Freitas Barreira Lima Aprovada"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "Pix R$ 17,00\n& 21:17 « Luiz Fernando Andrade Processando taxa >\ndos Santos",
+      "processed_text": "Pix R$ 17,00 21:17 Luiz Fernando Andrade Processando taxa dos Santos",
+      "confidence": 87.78571428571429,
+      "timestamp": null,
+      "amount": "R$ 17,00",
+      "description": "Pix R$ 17,00 21:17 Luiz Fernando Andrade Processando taxa dos Santos"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "Pix R$ 25,00\n& 21:17 © Gian Victor Oliveira Do Processando taxa >\nNascimento",
+      "processed_text": "Pix R$ 25,00 21:17 Gian Victor Oliveira Do Processando taxa Nascimento",
+      "confidence": 84.57142857142857,
+      "timestamp": null,
+      "amount": "R$ 25,00",
+      "description": "Pix R$ 25,00 21:17 Gian Victor Oliveira Do Processando taxa Nascimento"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "Pix R$ 11,00\n& 21:00.* Josélando Pereira Processando taxa >\nBatista",
+      "processed_text": "Pix R$ 11,00 21:00. Josélando Pereira Processando taxa Batista",
+      "confidence": 73.27272727272727,
+      "timestamp": null,
+      "amount": "R$ 11,00",
+      "description": "Pix R$ 11,00 21:00. Josélando Pereira Processando taxa Batista"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "Pix R$ 85,50\n} 19:16 » SERGIANIA MAIA Processando taxa >\nOLIVEIRA SANTOS [ Aprovada |",
+      "processed_text": "Pix R$ 85,50 19:16 SERGIANIA MAIA Processando taxa OLIVEIRA SANTOS Aprovada",
+      "confidence": 74.625,
+      "timestamp": null,
+      "amount": "R$ 85,50",
+      "description": "Pix R$ 85,50 19:16 SERGIANIA MAIA Processando taxa OLIVEIRA SANTOS Aprovada"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "Dix R$ 12,50\nQ 18:17 + JOSE JERONIMO Processando taxa >\nSINCLAIR MARANHAO [ Aprovada |",
+      "processed_text": "Dix R$ 12,50 Q 18:17 + JOSE JERONIMO Processando taxa SINCLAIR MARANHAO Aprovada",
+      "confidence": 79.6875,
+      "timestamp": null,
+      "amount": "R$ 12,50",
+      "description": "Dix R$ 12,50 Q 18:17 + JOSE JERONIMO Processando taxa SINCLAIR MARANHAO Aprovada"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Pix R$ 30,00\n& 18:01 * Francisco Erivaldo Processando taxa: >\nCandeias Germano [ Aprovada |",
+      "processed_text": "Pix R$ 30,00 18:01 Francisco Erivaldo Processando taxa: Candeias Germano Aprovada",
+      "confidence": 81.1875,
+      "timestamp": null,
+      "amount": "R$ 30,00",
+      "description": "Pix R$ 30,00 18:01 Francisco Erivaldo Processando taxa: Candeias Germano Aprovada"
+    }
+  ],
+  "total_quadrants": 10,
+  "processing_timestamp": "2025-10-10T11:13:22.316376"
+}

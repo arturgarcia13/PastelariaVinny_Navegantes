@@ -1,0 +1,99 @@
+{
+  "day_folder": "pix (21)",
+  "date_info": "30 set. 2025",
+  "header_text": "30 set. 2025",
+  "transactions": [
+    {
+      "quadrant_number": 2,
+      "raw_text": "Pix R$ 29,00\n& 21:14 Antonio Emando Gomes Procesando taxa >\nde Oliveira [ Aprovada |",
+      "processed_text": "Pix R$ 29,00 21:14 Antonio Emando Gomes Procesando taxa de Oliveira Aprovada",
+      "confidence": 79.66666666666667,
+      "timestamp": null,
+      "amount": "R$ 29,00",
+      "description": "Pix R$ 29,00 21:14 Antonio Emando Gomes Procesando taxa de Oliveira Aprovada"
+    },
+    {
+      "quadrant_number": 3,
+      "raw_text": "Pix R$ 21,80\n& 20:35 » GABRIEL MOURA Processando taxa >",
+      "processed_text": "Pix R$ 21,80 20:35 GABRIEL MOURA Processando taxa",
+      "confidence": 80.9090909090909,
+      "timestamp": null,
+      "amount": "R$ 21,80",
+      "description": "Pix R$ 21,80 20:35 GABRIEL MOURA Processando taxa"
+    },
+    {
+      "quadrant_number": 4,
+      "raw_text": "Dix R$ 7,17\nQ 20:15 + MARIAGLAUCIA SALES Processando taxa >",
+      "processed_text": "Dix R$ 7,17 Q 20:15 + MARIAGLAUCIA SALES Processando taxa",
+      "confidence": 61.18181818181818,
+      "timestamp": null,
+      "amount": "R$ 7,17",
+      "description": "Dix R$ 7,17 Q 20:15 + MARIAGLAUCIA SALES Processando taxa"
+    },
+    {
+      "quadrant_number": 5,
+      "raw_text": "Dix R$ 10,58\n& 20:11» ARLENI DO Processando taxa »\nNASCIMENTO LIMA",
+      "processed_text": "Dix R$ 10,58 20:11 ARLENI DO Processando taxa NASCIMENTO LIMA",
+      "confidence": 79.58333333333333,
+      "timestamp": null,
+      "amount": "R$ 10,58",
+      "description": "Dix R$ 10,58 20:11 ARLENI DO Processando taxa NASCIMENTO LIMA"
+    },
+    {
+      "quadrant_number": 6,
+      "raw_text": "R$ 3,00\n& Pix . a Processando taxa »\n18:04 * Davi Medeiros Araujo :",
+      "processed_text": "R$ 3,00 Pix . a Processando taxa 18:04 Davi Medeiros Araujo :",
+      "confidence": 73.85714285714286,
+      "timestamp": null,
+      "amount": "R$ 3,00",
+      "description": "R$ 3,00 Pix . a Processando taxa 18:04 Davi Medeiros Araujo :"
+    },
+    {
+      "quadrant_number": 7,
+      "raw_text": "Pix R$ 9,50\n@ 17:49 HIAGO ALBUQUERQUE = Procesando taxa >\nDE OLIVEIRA",
+      "processed_text": "Pix R$ 9,50 17:49 HIAGO ALBUQUERQUE Procesando taxa DE OLIVEIRA",
+      "confidence": 60.0,
+      "timestamp": null,
+      "amount": "R$ 9,50",
+      "description": "Pix R$ 9,50 17:49 HIAGO ALBUQUERQUE Procesando taxa DE OLIVEIRA"
+    },
+    {
+      "quadrant_number": 8,
+      "raw_text": "R$ 8,00\nQ, Pix Processando taxa\nea : a>\n17:48 « Daniele Costa de Souza ; |\nAprovada",
+      "processed_text": "R$ 8,00 Q, Pix Processando taxa ea : a 17:48 Daniele Costa de Souza Aprovada",
+      "confidence": 69.44444444444444,
+      "timestamp": null,
+      "amount": "R$ 8,00",
+      "description": "R$ 8,00 Q, Pix Processando taxa ea : a 17:48 Daniele Costa de Souza Aprovada"
+    },
+    {
+      "quadrant_number": 9,
+      "raw_text": "Dix R$ 14,00\n& 17:13 « Gustavo Sousa Alves de Processando'taxa: >",
+      "processed_text": "Dix R$ 14,00 17:13 Gustavo Sousa Alves de Processando taxa:",
+      "confidence": 82.16666666666667,
+      "timestamp": null,
+      "amount": "R$ 14,00",
+      "description": "Dix R$ 14,00 17:13 Gustavo Sousa Alves de Processando taxa:"
+    },
+    {
+      "quadrant_number": 10,
+      "raw_text": "Pix R$ 22,00\n& 16:55 « Amanda Domingos de Processando taxa >",
+      "processed_text": "Pix R$ 22,00 16:55 Amanda Domingos de Processando taxa",
+      "confidence": 85.33333333333333,
+      "timestamp": null,
+      "amount": "R$ 22,00",
+      "description": "Pix R$ 22,00 16:55 Amanda Domingos de Processando taxa"
+    },
+    {
+      "quadrant_number": 11,
+      "raw_text": "Pix R$ 16,46\n& 15:26 * Katia Suelly Ferreira Processando taxa >",
+      "processed_text": "Pix R$ 16,46 15:26 Katia Suelly Ferreira Processando taxa",
+      "confidence": 83.33333333333333,
+      "timestamp": null,
+      "amount": "R$ 16,46",
+      "description": "Pix R$ 16,46 15:26 Katia Suelly Ferreira Processando taxa"
+    }
+  ],
+  "total_quadrants": 11,
+  "processing_timestamp": "2025-10-10T11:14:51.995654"
+}
