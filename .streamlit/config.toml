@@ -7,7 +7,6 @@ headless = true
 
 [browser]
 gatherUsageStats = false
-showErrorDetails = false
 
 [theme]
 primaryColor = "#3498db"

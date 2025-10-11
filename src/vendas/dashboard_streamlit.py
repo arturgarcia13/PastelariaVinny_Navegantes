@@ -157,7 +157,7 @@ def criar_graficos_principais(df_filtrado):
             color_discrete_sequence=px.colors.qualitative.Set3
         )
         fig_pie.update_traces(textposition='inside', textinfo='percent+label')
-        st.plotly_chart(fig_pie, use_container_width=True)
+        st.plotly_chart(fig_pie, config={'responsive': True})
     
     with col2:
         # Gráfico de barras - Quantidade por método
@@ -171,7 +171,7 @@ def criar_graficos_principais(df_filtrado):
             color_discrete_sequence=px.colors.qualitative.Pastel
         )
         fig_bar.update_layout(showlegend=False)
-        st.plotly_chart(fig_bar, use_container_width=True)
+        st.plotly_chart(fig_bar, config={'responsive': True})
 
 def criar_analise_temporal(df_filtrado):
     """Cria análise temporal das vendas"""
@@ -185,6 +185,14 @@ def criar_analise_temporal(df_filtrado):
     vendas_diarias.columns = ['Quantidade', 'Faturamento', 'Ticket_Medio']
     vendas_diarias = vendas_diarias.reset_index()
     
+    # Análise por horário (quantidade e faturamento)
+    vendas_hora = df_filtrado.groupby('Hora_Int').agg({
+        'Valor': ['count', 'sum']
+    }).round(2)
+    vendas_hora.columns = ['Quantidade', 'Faturamento_Hora']
+    vendas_hora = vendas_hora.reset_index()
+    
+    # Primeira linha - Faturamento diário e por horário (quantidade)
     col1, col2 = st.columns(2)
     
     with col1:
@@ -197,20 +205,75 @@ def criar_analise_temporal(df_filtrado):
             markers=True
         )
         fig_linha.update_traces(line_color='#3498db', line_width=3)
-        st.plotly_chart(fig_linha, use_container_width=True)
+        st.plotly_chart(fig_linha, config={'responsive': True})
     
     with col2:
-        # Vendas por horário
-        vendas_hora = df_filtrado.groupby('Hora_Int').size().reset_index(name='Quantidade')
-        fig_hora = px.bar(
+        # Quantidade de vendas por horário
+        fig_hora_qtd = px.bar(
             vendas_hora,
             x='Hora_Int',
             y='Quantidade',
-            title="Distribuição por Horário",
+            title="Quantidade de Transações por Horário",
             color='Quantidade',
             color_continuous_scale='viridis'
         )
-        st.plotly_chart(fig_hora, use_container_width=True)
+        st.plotly_chart(fig_hora_qtd, config={'responsive': True})
+    
+    # Segunda linha - Faturamento por horário
+    st.subheader("💰 Faturamento por Horário do Dia")
+    
+    fig_hora_valor = px.bar(
+        vendas_hora,
+        x='Hora_Int',
+        y='Faturamento_Hora',
+        title="Valor Total Vendido por Horário",
+        color='Faturamento_Hora',
+        color_continuous_scale='plasma',
+        text='Faturamento_Hora'
+    )
+    
+    # Personalizar o gráfico
+    fig_hora_valor.update_traces(
+        texttemplate='R$ %{text:.0f}',
+        textposition='outside'
+    )
+    
+    fig_hora_valor.update_layout(
+        xaxis_title="Horário",
+        yaxis_title="Faturamento (R$)",
+        showlegend=False,
+        height=500
+    )
+    
+    st.plotly_chart(fig_hora_valor, config={'responsive': True})
+    
+    # Estatísticas do horário de maior faturamento
+    if len(vendas_hora) > 0:
+        melhor_horario = vendas_hora.loc[vendas_hora['Faturamento_Hora'].idxmax()]
+        col1, col2, col3 = st.columns(3)
+        
+        with col1:
+            st.metric(
+                "🕐 Horário de Maior Faturamento",
+                f"{int(melhor_horario['Hora_Int'])}h",
+                f"R$ {melhor_horario['Faturamento_Hora']:.2f}"
+            )
+        
+        with col2:
+            horario_mais_movimentado = vendas_hora.loc[vendas_hora['Quantidade'].idxmax()]
+            st.metric(
+                "📊 Horário Mais Movimentado",
+                f"{int(horario_mais_movimentado['Hora_Int'])}h",
+                f"{int(horario_mais_movimentado['Quantidade'])} vendas"
+            )
+        
+        with col3:
+            ticket_medio_horario = melhor_horario['Faturamento_Hora'] / melhor_horario['Quantidade']
+            st.metric(
+                "💎 Maior Ticket Médio/Hora",
+                f"R$ {ticket_medio_horario:.2f}",
+                f"às {int(melhor_horario['Hora_Int'])}h"
+            )
 
 def criar_analise_avancada(df_filtrado):
     """Cria análise avançada com insights"""
@@ -228,7 +291,7 @@ def criar_analise_avancada(df_filtrado):
             title="Distribuição dos Valores",
             color_discrete_sequence=['#e74c3c']
         )
-        st.plotly_chart(fig_hist, use_container_width=True)
+        st.plotly_chart(fig_hist, config={'responsive': True})
     
     with col2:
         # Boxplot por método
@@ -239,7 +302,7 @@ def criar_analise_avancada(df_filtrado):
             title="Distribuição de Valores por Método",
             color='Metodo_Pagamento'
         )
-        st.plotly_chart(fig_box, use_container_width=True)
+        st.plotly_chart(fig_box, config={'responsive': True})
 
 def criar_insights_estrategicos(df_filtrado):
     """Cria seção de insights estratégicos"""
@@ -389,7 +452,7 @@ def main():
             st.subheader("📋 Dados Detalhados")
             st.dataframe(
                 df_filtrado[['DateTime', 'Valor', 'Metodo_Pagamento', 'Hora_Int']].sort_values('DateTime', ascending=False),
-                use_container_width=True
+                width='stretch'
             )
     
     else:
