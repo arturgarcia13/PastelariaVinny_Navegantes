@@ -1,0 +1,4 @@
+outputs/reports/*
+data
+src/__pycache__
+.venv

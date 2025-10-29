@@ -382,7 +382,8 @@ def crop_and_divide_workflow(folder_path, crop_pixels=450, quadrant_width=1080, 
 
 if __name__ == "__main__":
     # Configure aqui o caminho para suas imagens
-    PASTA_IMAGENS = r"data\raw\Imagens\cropped_images"
+    PASTA_IMAGENS = r"data\images\Agosto\pix\cropped_images"
+
     
     print("🖼️  Sistema de Processamento de Imagens")
     print("=" * 50)
