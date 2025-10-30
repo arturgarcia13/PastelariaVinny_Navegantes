@@ -1,0 +1,35 @@
+RELATÓRIO ESTATÍSTICO - TRANSAÇÕES PIX
+==================================================
+Gerado em: 28/10/2025 19:46:40
+
+📊 RESUMO GERAL:
+   Total de transações: 264
+   Valor total: R$ 4343.08
+   Valor médio: R$ 16.45
+   Dias processados: 24
+
+📅 TRANSAÇÕES POR DIA:
+   01/08/2025: 14 transações - R$ 252.72
+   02/08/2025: 8 transações - R$ 142.94
+   04/08/2025: 8 transações - R$ 132.49
+   05/08/2025: 11 transações - R$ 153.65
+   06/08/2025: 13 transações - R$ 157.34
+   07/08/2025: 10 transações - R$ 148.06
+   08/08/2025: 8 transações - R$ 99.32
+   11/08/2025: 12 transações - R$ 190.28
+   12/08/2025: 15 transações - R$ 235.35
+   13/08/2025: 10 transações - R$ 175.26
+   14/08/2025: 8 transações - R$ 162.68
+   16/08/2025: 12 transações - R$ 219.00
+   18/08/2025: 12 transações - R$ 188.04
+   19/08/2025: 9 transações - R$ 225.29
+   20/08/2025: 9 transações - R$ 161.62
+   21/08/2025: 16 transações - R$ 249.95
+   22/08/2025: 11 transações - R$ 121.49
+   23/08/2025: 12 transações - R$ 244.83
+   25/08/2025: 14 transações - R$ 218.79
+   26/08/2025: 6 transações - R$ 74.34
+   27/08/2025: 14 transações - R$ 320.00
+   28/08/2025: 10 transações - R$ 101.59
+   29/08/2025: 15 transações - R$ 205.05
+   30/08/2025: 7 transações - R$ 163.00

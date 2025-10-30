@@ -1,4 +1,3 @@
-outputs/reports/*
 data
 */__pycache__
 .venv
