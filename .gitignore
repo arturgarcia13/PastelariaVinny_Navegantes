@@ -1,4 +1,4 @@
 outputs/reports/*
 data
-src/__pycache__
+*/__pycache__
 .venv

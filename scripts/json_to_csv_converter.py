@@ -88,37 +88,108 @@ class JSONToCSVConverter:
         """
         Converte valor monetário para float
         Ex: 'R$ 13,00' → 13.00 ou 'R$:7,73' → 7.73
-        Também extrai valores de strings como '_. 7.73 visa Debito -ON 19:26 Maquininha' → 7.73
+        Procura especificamente por valores monetários, evitando conflito com horários
         """
         if not value_string:
             return "Não encontrado"
         
-        # Remove 'R$', 'R$:' e espaços
-        cleaned = re.sub(r'R\$[:\s]*', '', value_string)
+        # Estratégia 1: Busca valores com R$ explícito (mais seguro)
+        r_dollar_patterns = [
+            r'R\$\s*(\d{1,4})[.,](\d{2})',     # R$ 16,37 ou R$ 16.37
+            r'R\$\.(\d{1,4})[.,](\d{2})',      # R$.16,37
+            r'R\$(\d{1,4})[.,](\d{2})',        # R$16,37 (sem espaço)
+            r'R\$\s*(\d{1,4})\s+(\d{2})',      # R$16 37 (espaço no lugar da vírgula)
+        ]
         
-        # Remove espaços extras
-        cleaned = cleaned.strip()
+        found_values = []
         
-        # Substitui vírgula por ponto
-        cleaned = cleaned.replace(',', '.')
+        for pattern in r_dollar_patterns:
+            matches = re.findall(pattern, value_string, re.IGNORECASE)
+            for match in matches:
+                try:
+                    if isinstance(match, tuple) and len(match) >= 2:
+                        # Reconstrói o número (parte inteira, parte decimal)
+                        value = float(f"{match[0]}.{match[1]}")
+                        found_values.append(value)
+                except (ValueError, IndexError):
+                    continue
         
-        # Tenta encontrar o primeiro número válido na string
-        match = re.search(r'\b\d+\.\d+\b', cleaned)
-        if match:
-            try:
-                return float(match.group())
-            except ValueError:
-                return "Não encontrado"
+        # Estratégia 2: Busca padrões monetários sem R$ (mais restritiva para evitar horários)
+        if not found_values:
+            # Remove R$ e caracteres especiais, mas preserva contexto
+            cleaned = re.sub(r'R\$[:\s\.]*', '', value_string)
+            
+            # Busca números com vírgula decimal (formato brasileiro) - menos provável de ser horário
+            comma_decimal_matches = re.findall(r'\b(\d{1,4}),(\d{2})\b', cleaned)
+            for match in comma_decimal_matches:
+                try:
+                    value = float(f"{match[0]}.{match[1]}")
+                    # Filtros para evitar horários:
+                    # - Valores de hora (00-23) com minutos (00-59) são suspeitos
+                    if not (0 <= int(match[0]) <= 23 and 0 <= int(match[1]) <= 59):
+                        found_values.append(value)
+                    elif int(match[0]) > 23:  # Definitivamente não é hora
+                        found_values.append(value)
+                except (ValueError, IndexError):
+                    continue
+            
+            # Busca números com ponto decimal (menos comum em horários brasileiros)
+            if not found_values:
+                dot_decimal_matches = re.findall(r'\b(\d{1,4})\.(\d{2})\b', cleaned)
+                for match in dot_decimal_matches:
+                    try:
+                        value = float(f"{match[0]}.{match[1]}")
+                        # Mesmo filtro para horários
+                        if not (0 <= int(match[0]) <= 23 and 0 <= int(match[1]) <= 59):
+                            found_values.append(value)
+                        elif int(match[0]) > 23:
+                            found_values.append(value)
+                    except (ValueError, IndexError):
+                        continue
         
+        # Prioriza valores >= 1.0, depois pega o maior
+        if found_values:
+            # Remove duplicatas
+            found_values = list(set(found_values))
+            
+            # Primeiro tenta encontrar valores >= 1.0
+            valid_values = [v for v in found_values if v >= 1.0]
+            if valid_values:
+                return max(valid_values)  # Retorna o maior valor válido
+            else:
+                return max(found_values)  # Se só tem valores < 1, retorna o maior
+        
+        # Estratégia 3: Fallback mais conservador
         try:
-            return float(cleaned)
+            # Apenas se tem R$ explícito
+            if 'R$' in value_string.upper():
+                cleaned = re.sub(r'R\$[:\s]*', '', value_string, flags=re.IGNORECASE)
+                cleaned = cleaned.strip().replace(',', '.')
+                value = float(cleaned)
+                return value
         except (ValueError, AttributeError):
-            return cleaned
+            pass
+        
+        return "Não encontrado"
+    
+    def validate_minimum_value(self, value) -> Optional[float]:
+        """
+        Valida se o valor é maior que 1.00, caso contrário retorna "Não encontrado"
+        """
+        if isinstance(value, (int, float)):
+            if value >= 1.0:
+                return value
+            else:
+                # Valor menor que R$ 1,00 é considerado inválido
+                return "Não encontrado"
+        else:
+            # Se não é numérico, mantém o valor original
+            return value
     
     def extract_reference_filename(self, day_folder: str, quadrant_number: int) -> str:
         """
         Gera nome do arquivo de referência
-        Ex: 'data\raw\ocr_results\agosto\debito\agosto_debito_001_data.json' + quadrante 2 → 'agosto_debito_001_data_quadrante_02'
+        Ex: 'data/raw/ocr_results/agosto/debito/agosto_debito_001_data.json' + quadrante 2 → 'agosto_debito_001_data_quadrante_02'
         """
         day_folder_name = Path(day_folder).stem  # Obtém o nome do arquivo sem extensão
         return f"{day_folder_name}_quadrante_{quadrant_number:02d}"
@@ -152,13 +223,38 @@ class JSONToCSVConverter:
                 # Extrai horário
                 time_str = self.extract_time_from_text(raw_text)
                 
-                # Converte valor
-                value_float = self.convert_value_to_float(amount_str or processed_text)
+                # Estratégia inteligente para conversão de valor
+                # 1. Tenta primeiro o campo 'amount' do JSON
+                value_float = None
+                if amount_str:
+                    value_float = self.convert_value_to_float(amount_str)
+                    
+                    # Se o valor do campo 'amount' for muito baixo, tenta o texto completo
+                    if isinstance(value_float, (int, float)) and value_float < 1.0:
+                        alternative_value = self.convert_value_to_float(processed_text)
+                        if isinstance(alternative_value, (int, float)) and alternative_value > value_float:
+                            value_float = alternative_value
+                
+                # 2. Se não havia 'amount' ou não conseguiu extrair, usa o texto completo
+                if value_float is None or value_float == "Não encontrado":
+                    value_float = self.convert_value_to_float(processed_text)
+                
+                # Aplica validação de valor mínimo
+                value_float = self.validate_minimum_value(value_float)
+                
+                # Verifica se encontrou pelo menos alguns campos importantes
+                # Pula transação se não tiver valor OU horário válidos
+                has_valid_value = isinstance(value_float, (int, float)) and value_float >= 1.0
+                has_valid_time = time_str != "Não encontrado"
+                
+                # Só adiciona se tiver pelo menos valor E horário, OU texto substancial
+                if not (has_valid_value or has_valid_time):
+                    continue  # Pula esta transação
                 
                 # Gera nome do arquivo de referência
                 reference_file = self.extract_reference_filename(json_file_path, quadrant_num)
                 
-                # Adiciona todas as transações (mesmo sem valor válido)
+                # Adiciona transação válida
                 transaction_row = {
                     'Data': formatted_date,
                     'Hora': time_str,
@@ -357,7 +453,7 @@ def preview_conversion_data(json_folder, max_files=3):
 
 if __name__ == "__main__":
     # Configurações padrão
-    JSON_FOLDER = r"data\raw\ocr_results\agosto\pix"
+    JSON_FOLDER = r"data\raw\ocr_results\agosto\credito"
     OUTPUT_FOLDER = r"outputs\reports"
     
     print("💱 Conversor JSON → CSV para Transações")

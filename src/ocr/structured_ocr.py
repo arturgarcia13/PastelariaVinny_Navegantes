@@ -941,7 +941,7 @@ def test_nomenclature_system(base_folder):
 
 if __name__ == "__main__":
     # Configuração padrão - atualizada para a pasta quadrantes
-    BASE_FOLDER = r"data\images\Agosto\pix\cropped_images\quadrantes"
+    BASE_FOLDER = r"data\images\Agosto\credito\quadrantes"
     OUTPUT_FOLDER = r"data\raw\ocr_results"
     
     print("🔍 Sistema de OCR Estruturado para Transações")
